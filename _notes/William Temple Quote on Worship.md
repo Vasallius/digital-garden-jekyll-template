@@ -1,0 +1,1 @@
+Worship is the submission of all of our nature to God. It is the quickening of the conscience by his holiness; the nourishment of mind with his truth; the purifying of imagination by his beauty; the opening of the heart to his love; the surrender of will to his purpose—all this gathered up in adoration, the most selfless emotion of which our nature is capable. 

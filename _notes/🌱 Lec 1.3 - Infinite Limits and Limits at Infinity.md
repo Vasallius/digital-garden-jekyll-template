@@ -1,0 +1,27 @@
+- ## Infinite Limits
+	- limits where the value of `f(x)` approaches positive or negative infinity
+	- **infinity is not a number**
+	- limit still does not exist 
+	- **vertical asymptote**
+		- equation; x = a
+		- limits approach infinity from the left or right
+		- when the function is undefined
+		- take into consideration the sign of the constant and how it approaches 0
+			- this will determine which infinity it will approach
+	- infinity - infinity or infinity x 0 is **indeterminate**
+	- indeterminate form is not the final answer, look for ways to factor out things so that we can end up with an infinite limit
+	- **note: don't rush after you get the denominator, the numerator may have signs that will reveal a different answer**
+	- **note: take note of exponents that are even when approaching negative infinity**
+- ## Limits at Infinity
+	- this time, x is increasing or decreasing without bound
+	- **horizontal asymptote**
+		- the limit of f(x) as x ⇒ infinity
+		- y = a
+	- $\frac{1}{infinity}$, both positive or negative = 0
+	- try to factor out the leading degree in the denominator, so you're left with $\frac{c}{x}$ which equals to 0 
+	- infinity over infinity is indeterminate
+		- **technique: multiply numerator and denominator by $\frac{1}{x^{n}}$**
+		- so that we make them fractions that equal to 0
+		- for problems with radicals, express it in radical form, e.g. 1/x = $\frac{1}{\sqrt{x^{2}}}$
+			- take note where x is approaching
+			- **$\sqrt{x^{2}}$ may equal x or - x**

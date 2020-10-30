@@ -1,0 +1,10 @@
+## Chain Rule
+- ![[Attachments/Pasted image 20201009172726.png]]
+- ![[Attachments/Pasted image 20201009172931.png]]
+- ![[Attachments/Pasted image 20201009173012.png]]
+- ![[Attachments/Pasted image 20201009173118.png]]
+- ![[Attachments/Pasted image 20201009173232.png]]
+- ![[Attachments/Pasted image 20201009173446.png]]
+- ![[Attachments/Pasted image 20201009174327.png]]
+- ![[Attachments/Pasted image 20201009174920.png]]
+- ![[Attachments/Pasted image 20201009175222.png]]

@@ -1,0 +1,56 @@
+- Details:
+	- Professor: Richelle Ann B. Juayong
+	- Email: rbjuayong@up.edu.ph
+	- Time: **1:00-2:30**
+	- Working Hours: 
+
+---
+- 🎥 Zoom Meetings
+	- Topic: CS30 Orientation 
+	- Link: https://up-edu.zoom.us/j/95105638842
+	- Meeting ID: 951 0563 8842
+	- Password: HelloCS30
+- 📂 File Repository
+	- [Notion](https://www.notion.so/CS-30-Discrete-Mathematics-for-Computer-Science-I-f2391bb4283c40fc906469e65bfedbe4#02a14cad149d4eacb9b029e8b20cf6c8)
+		- **course modules**
+		- **videos**
+		- **suggested timeline**
+	- [UVLE](https://uvle.upd.edu.ph/course/view.php?id=13880)
+		- [**Journal**](https://uvle.upd.edu.ph/course/view.php?id=13880)
+	- [CS30 Folder](file:///E:/Master%20Jed/College%20Life/1st%20Year/CS30%20-%20JUAYONG)
+	- [Kenneth Rosen Book](file:///E:/Master%20Jed/ZettelKasten/Second%20Brain/dmath.pdf)
+	- [Susanna Epp](file:///E:/Master%20Jed/Ebooks/CS30%20-%20Susanna%20S.%20Epp%20-%20Discrete%20Mathematics%20with%20Applications,%204th%20Edition-Brooks%20Cole%20(2010).pdf)
+	- [Facebook Group](https://www.facebook.com/groups/1927968680673972/?ref=share)
+- ❓ Questions
+	- 
+- 🖊 Notes
+	- ## Propositional Logic
+		- [[🌱 Statements and Connectives]]
+		- [[🌱  Logical Expressions]]
+		- [[🌱  Logical Equivalences]]
+		- [[🌱 Arguments]]
+	- ## Predicate Logic
+		- [[🌱 Predicates and Quantifiers]]
+		- [[🌱 From English Sentence to Logical Expressions]]
+		- [[🌱 Validity of Arguments with Quantified Statements]]
+		- [[🌱 Predicate Logic Handout]]
+	- ## Methods of Proof
+		- [[🌱 Number Sets and Closure Property]]
+		- [[🌱 Exhaustive, Vacuous and Trivial Proof]]
+		- [[🌱 Direct Proof]]
+		- [[🌱 Proof by Contraposition]]
+		- [[🌱 Proof by Contradiction]]
+		- [[🌱 Proof by Cases]]
+		- [[🌱 Proofs of Equivalence]]
+		- [[🌱 Proofs of Existence]]
+		- [[🌱 Disproving]]
+	- ## Sequences, Recurrence, and Mathematical Inductions
+		- [[🌱 Notation and Formula]]
+		- [[🌱 Summation and Product]]
+		- [[🌱 Proof by Mathematical Induction]]
+		- [[🌱 Strong Induction]]
+	- ## Finite and Infinite Sets
+		- [[🌱 Definitions and Notations]]
+		- [[🌱 Basic Set Operations]]
+		- [[🌱 Proving Set Properties]]
+		- [[🌱 Proving Set Identities]]

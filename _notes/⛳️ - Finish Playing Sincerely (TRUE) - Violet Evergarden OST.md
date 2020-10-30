@@ -1,0 +1,6 @@
+- August 31
+	- Memorized the whole song already
+- September 4
+	- Recorded
+- September 9
+	- Uploaded

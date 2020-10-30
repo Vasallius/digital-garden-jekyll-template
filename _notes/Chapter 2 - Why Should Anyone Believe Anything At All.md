@@ -1,0 +1,58 @@
+### Chapter 2 - Why Should Anyone Believe Anything At All
+- p.51
+	>People almost invariably arrive at their beliefs not on the basis of proof but on the basis of what they find attractive. - *Blaise Pascal*
+	- #quote 
+- p.54
+	- in order to find truth, one must be ready to give up those subjective preferences in favor of objective facts
+- p.56
+	- truth is truth no matter what country/tribe you come from
+	- truth is truth no matter what you believe about it
+- p.57
+	- Muslim philosopher, [[Avicenna]], suggested a way to correct someone who denies the [[Law of Noncontradiction]].
+	- Anyone who denies the [[Law of Noncontradiction]] should be beaten and burned until he admits that to be beaten is not the same as not to be beaten, and to be burned is not the same as not to be burned.
+- p. 59
+	- The [[Principle of Empirical Verifiability]] states that there are only two kinds of meaningful proposition
+		- those that are true by definition
+		- those that are empirically verifiable
+	- **Since the principle itself is neither true by definition nor empirically verifiable, it cannot be meaningful**.
+- p. 60
+	- Why is it that the average person on the street doesn't doubt what he sees with his own two eyes, but supposedly brillaint philosophers do? 
+	- The more we study philosophy, the more we are convinced of this:
+		- to make the obvious seem obscure
+	- [[C.S. Lewis]] on studying philosophy #quote 	
+		- Good philosophy must exist if for no other reason, because bad philosophy needs to be answered
+	- [[Immanuel Kant]]	also makes a "nothing-but" fallacy.
+		- he says that the data that gets to his brain is nothing but phenomena
+		- but in order to know, he should have been able to see **more than** just the phenomena
+		- in order to differentiate one thing from another thing, you must be able to perceive where one ends and the other beings
+		- example:
+			- a white piece on a black desk
+			- you would only tell where the paper ends by seeing the black desk that borders it
+- p. 61
+	- [[The Reader's Digest]] quote on refutation
+		- That's what happens when a beautiful theory meets a brutal gang of facts. Besides, whoever said that a refutation has to be complex? If someone makes a simple mistake, it only takes a simple correction to point it out.
+- p. 62
+	- truth exists and it is absolute and undeniable
+	- to say truth cannot be known is self-defeating because that statement claims to be a known absolute truth
+- p. 63 on **How Can Truth Be Known**
+	- Two principles
+		- [[Law of Noncontradiction]]
+		- [[Law of the Excluded Middle]]
+			- something either is or not
+			- ex: God exists or He does not
+	- an argument can be logically sound but still be false because the premises of the argument do not correspond to reality
+		- ex:
+		- all mean are four-legged reptiles
+		- zachary is a man
+		- therefore zachary is a four-legged reptile
+	- this is logically sound but still wrong
+	- logical can tell us that an argument is false, but it cannot tell us by itself whichmises are true
+- p.64
+	- the process of discovering whether the premises in an argument are true usually requires induction
+		- ex: observing that things fall led us to discover gravity
+- p.65
+	- how can we use observation to investigate and unobservable being called God?
+		- we investigate the beginning of the universe
+- p. 66
+	- many of us are ignorant and apathetic about the truth
+	- 

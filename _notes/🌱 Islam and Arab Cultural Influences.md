@@ -1,0 +1,43 @@
+## Islam and Arab Cultural Influences
+- different political entities -> barangays and barrios, ruled under a datu or rajah
+- spaniards came to christianize the filipinos but they couldn't do that with the southern islands like Sulu and Maguindanao
+- Spaniards called people who practised Islam Moros similar to the Moors who conquered Spain before
+- Christians and Muslims share some Malay cultural Traits
+- it is believed that it was 7 brothers from the arabic peninsula that brought islam to the philippines
+	- however that may not be the case, it may just be 7 major persons
+	- there were different names
+- **Abu Bakr**
+	- best known of the seven missionaries
+	- created Sulu sultanate
+	- Sulu laws
+	- introduction of Shari'a
+	- territorial administrative arrangement
+- for the people to accept him as sultan, they should have some inclination on islam or some beliefs on it
+	- this meant that someone earlier introduced islam to the filipinos
+- this person was probably named **makhdum**
+	- arrived with some chines companions
+	- believed to have arrived in a metal boat and claimed to have magical powers
+- however, this makhdum has different graves in different places with different people claiming to be of descent from him
+	- this suggests that there could have been a couple of makhdumins
+	- makhdumins in arabic simply meant master
+	- though accepting multiple makhdumins, it is believed that the first one was buried at **Tandu Banak**
+- another notable person is Ar. **Al-Faqih** who introduced Islam to Tawi-Tawi
+- the spread of islam in mindanao is attributed to Sherif Muhammaed Kabungsuwan
+- ![[Attachments/Pasted image 20201007160117.png]]
+	- these stages are not separate and unrelated
+	- one continuous process
+	- fifth stage would probably be now
+- spice monopoly isolated the muslims in the philippines
+- chief pandits or kali approved law legislations
+- introduction of islam was generally peaceful
+- ulama postuled a kingdom of God on earth
+- islam expansion on the philippines is very complex
+	- the mere arrival of the brothers were only the beginning
+	- there are still many questions to ask
+	- like why did the high rulers convert
+- integrating islam heritage to the enrichment of natural culture
+	- writing of a history that can be incorporated into general history
+	- literature
+	- art
+	- music
+- > The present day requirements of a developing society which is a universal phenomena makes it crucial to emphasize the positive contributions of divergent groups or sub-cultures within the wider community.

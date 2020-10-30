@@ -1,0 +1,84 @@
+ # Computer Memory
+- most fundamental unit of computer memory is the bit
+	- can only take two values
+	- ![](Attachments/Pasted%20image%2020200925182838.png)
+	- 8 bits = 1 byte
+	- 4 bytes or 32 bits = one word
+- #### binary, octal, and hexadecimal
+	- binary form - 0 or 1
+	- `01100001`
+	- octal
+		- 0 to 7
+		- splits into triples
+	- hexadecimal
+		- 0 to 16
+			- > 9 replaced with a - f
+		- preceded by a `#`
+		- splits intro quadruplets
+			- practice may be to write them in pairs
+- standard practice present three columns on information
+	- offset
+		- first bye in the first row
+	- actual memory contents 
+		- typically hexadecimal
+	- interpretation
+- #### Numbers
+	- if we use *k* bits and each bit has two possible states
+	- can represent *2k* possible states
+	- meaning we can represent numbers from `0 to 2k-1`
+- #### Integers
+	- commonly stored as 4 bytes or 32 bits
+	- written right to left (bits)
+	- written left ro right (bytes)
+	- does not allow for negative values
+	- larger numbers cannot be stored in a "word" of memory
+	- practice is to scarifice one bit to indicate whether the number is positive or negative
+	- dealing with storing large integers:
+		- may use more memory
+		- may use two words (uses more memory and is less efficient)
+		- store as real numbers but have inaccuracies
+		- aritrary precision arithmetic, slow calculations
+- #### Real Numbers
+	- there is a limit in precision when storing real numbers
+	- most real values cannot be stored on a computer
+	- ex:
+		- pi
+		- e
+		- fractions like 1/3
+	- even if we can't store exact value, we can store close value
+	- tiny errors in stored values can accumulate and result in significant problems
+	- stored as a floating-point number
+		- two values
+		- mantissa (m)
+		- exponent (e)
+		- form of `m x 2e`
+		- 8 bits for exponent, 23 bits for mantissa, 1 bit for sign
+		- ![](Attachments/Pasted%20image%2020200925183953.png)
+	- 11 bits allow from -127 to 127
+- #### Case Study: Network Traffic
+	- 64-bit or double precision
+	- time measurements were recorded from 1970
+- #### Text
+	- convert character to integer then store integer
+	- storing A actually means storing 65
+	- conversion is called encoding
+	- ASCII
+	- 8 bits 
+		- possible to encode 256(28) different cahracters
+	- UNICODE
+		- attempt to provide an ecnoding for all of the chracters
+		- will use two bytes per character
+		- there is two additional bytes
+		- usually 8 bits at the start (BOM), byte order mark
+- #### Data with units or labels
+	- representing male and female can be represented as 0 or 1
+- #### Dates
+	- format can differ from countries
+	- diffrent timezones
+	- changing calendars
+- #### Money
+	- currency should be recorded
+	- ideally keep two decimal places at all times
+- #### Binary Values
+	- use standard storage formats so we don't have to work too hard
+	- bits can store colors

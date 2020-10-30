@@ -1,0 +1,296 @@
+- ![[Attachments/Pasted image 20201008144944.png]]
+
+keywords: politics society economy and culture
+
+---
+
+## Barangay as a concept:
+- 30 to 100 families
+- came from the term **balanghai**; something used for transportation
+- **barangays are not homogeneous**
+## Political Composition and Legal System of the Barangay
+- two dominate structures
+- chieftain (above)
+	- all around
+	- executive
+	- judiciary
+	- legislative
+	- all done by chieftian
+	- also headed wars
+- subjects (below)
+	- do menial tasks that the chief want them to do
+	- important task: pay tribute (buwis)
+		- seasonal, depends on the harvest of the family
+		- can be gold, crops, or livestock
+- legal system
+	- customary law
+		- by custom, doesn't need to be written down
+		- traditional thing
+		- example:
+			- give respect to elders
+		- if you don't observe that:
+			- you are deviance
+	- written law
+		- order and discipline
+		- when you break written laws, there are punishments
+		- created in the house of chieftain, along with council of elders
+		- umalohokan
+			- public announcer
+			- gathers in the public area
+- there is a due process
+	- accused and accuser
+	- trial by ordeal
+		- dependent on the wisdom of gods and goddesses
+			- determine who is guilty and hindi
+	- trial by combat (alaw)
+	- candles can be used 
+		- whatever candle runs out first
+	- patagalan sa tubig
+		- whoever comes out first is guilty
+	- chew rice then spit
+		- determine sino yung pinakamalapot
+	- retrieving a stone from boiling water
+		- whoever got scalded first
+- peaceful and hostile realtionship between baranggay
+	- peaceful reasons
+		- economic trade
+		- friendly
+		- alliance building
+			- how are these forged?
+				- counterpart of treaties is sanduguan
+				- let blood drip to the cup with local wine, then drink tomorrow
+				- blood brothers
+			- doesn't always end in sanduguan
+			- intermarriage
+	- hostile reasons
+		- simple offense
+			- can lead into warfare
+		- committing a crime
+		- economic reasons
+	- warfare traditiions
+		- land combat
+		- Visayas and Mindanao
+			- pintados islands (Cebu Bohol Leyte, ...)
+				- tradition of tattooing
+				- war record = number of tattoos
+					- measure of how many you killed
+					- measrue of bravery
+					- not only men, also girls
+				- warfare through boats (**pangangayaw**)
+					- small but many, surprise attacks
+					- fiery arrows before invading
+					- get economic resources
+						- not only just things
+						- also people (slaves)
+					- when Spaniards came, it changed
+						- Spaniards became the target
+						- they surrouned the big ships of Spaniards
+						- Spaniards spent so much money to revise the design of their boats
+						- small boats had an advantage
+					- headhunting (Luzon)
+						- initiation to manhood
+							- proof that you were a men already
+						- appease the gods of harvest
+## Social Strucutre withing the Barangay
+- accdg. to William Henry Scott
+- 3 classes
+	- Nobles
+		- *maginoo* (Tagalog)
+			- titles
+			- "gat" Jose Rizal 
+				- meant honorable
+			- "lakan"
+		- *tumao* (Bisaya)
+	- Freemen
+		- *marhalika* or *mahadlike* (Tagalog)
+		- *timagua* or *timawa* (Visayas)
+	- Dependents
+		- coined by William Henry Scott
+		- *alipin* (Tagalog)
+			- aliping namamahay
+			- aliping saguiguilid
+		- *uripon* (Visayas)
+			- ayuey
+				- works 3/4 days
+			- tumaranpoc
+				- works 1/4 days
+			- tumataban
+				- works once a month
+		- difference of slavery vs dependence
+		- 5 reasons:
+			- failure to pay your debt
+			- inheritance from parents
+				- help your parents pay their debt
+			- warfare
+				- prisoner of war
+			- sold as a slave
+			- punishment for crime
+- social structure was fluid
+	- you can go up and down depending on the circumstance
+	- can become freeman from slavery
+	- compared to india's social sate system
+		-  you cannot escape social class
+		-  do your darma and accumulate karma
+			-  next life: higher social class
+-  status of women
+	-  men treated women as equals
+		- can do business and trade
+		- can ascend into a chieftain
+			- in the absense of a male heir
+		- pagbubukot (seclusion)
+			- Panay Islands
+			- veil
+			- reflects how women were very important
+			- undergo a period of grooming to become a princess
+			- usually 4 years old
+			- 10 year period of grooming
+				- bawal magwork
+				- high position in society
+				- bawal maglakad sa labas
+				- intellectual labor
+			- married at 13 or 14 years old
+				- highest bidder
+			- very smart
+			- political strategy
+
+## Economy and Trade in Precolonial Philippines
+- everything revolved around agriculture
+	- practices varied dependong on where the baranggay was located
+		- mountain community
+			- kaingin system
+		- high places
+			- irrigation ditches (payao)
+			- rice terraces
+		- foraging
+		- hunting and gathering
+		- horticulture
+		- small-scale mining
+		- coastal
+			- fishing practices
+	- produced a surplus
+		- trading and barter system
+			- product for product
+			- systems of weights and management
+			- you don't exchange similar products
+		- common trading partner: Chinese and Japanese
+
+![[Attachments/Pasted image 20201008153527.png]]
+
+## Culture
+- marriage
+	- legitimate partner
+	- illegitimate partner
+		- barred from inheritance
+	- three-stage courtship
+		- courtship
+			- men and women are convinced that they will become husband and wife
+			- convince the parents of the  bride
+			- panliligaw
+			- serve in their house	(not a slave)
+			- suitor barred from talking to bribe
+			- *communicated love using the eyes*
+		- settlement of dowry
+			- may be land, gold, crops, slaves
+			- depends on the arrangement of the parents
+			- needs to lead to marriage or else embarassing
+			- different in india or china
+				- women was the one giving dowry 
+		- marriage
+			- marriage rites
+			- presence of babaylan
+			- rice ceremony
+				- nobility only
+				- throw rice ball (cooked) outside the window (man)
+					- symbolism: focus on raising the childs
+				- throw rice ball outside the door (woman)
+					- symbolism: groom has a regular job
+	- for dependents, ceremonies were skipped, only a yes or no
+- animism
+	- nature worship
+	- gods and goddesses
+	- nature spirits
+		- protectors of the natural world
+	- *katalonan* (Tagalog) and *babaylanes* (Bisaya)
+		- people in charge of appeasing the gods and goddesses
+		- "talo", hindi tayo talo, hindi tayo match
+			- ka match nila yung mga god in a sense they can talk to the spirits
+			- mediators
+	- bacalag
+		- inaguarate a warship on top of the hill
+		- war captive at the foot of the hill
+			- they'll get killed by the warship
+			- blood should stain the wood of the warship
+				- appease the war god for blessing
+				- scare the enemies
+		- form of pag-aanito
+	- anito can have different meanings
+		- either statue
+		- or verb (sacrifcing for gods)
+		- "pagaanito" done by the katalonan and babaylanes
+	- philosophy: our soul will travel to the afterlife
+		- soul is immortal; there is life after death
+	- cult of the dead
+		- burial rites
+		- buried with personal belongings
+		- always treat the dead as living
+			- likha and larawan
+				- literally representing the soul of the dead
+				- no photography before, carvings on stone or ivory represent the soul
+			- belief that if they forget about their souls, they will have revenge and cause disease
+		- pasiyam and tibawan (festivities)
+			- soul lingers on the mortal world for 9 days
+			- on the ninth day, transition to the other world
+			- tibawan (last day)
+				- parang despedida
+				- safe travel to afterlife
+			- when Spaniards came
+				- became 40 days
+	- secondary burial
+		- ![[Attachments/Pasted image 20201008155524.png]]
+		- only bones are in the jar
+		- you wait for 6-8 months for the body to decompose
+		- jar placed inside the house ir under the house
+- supernatural
+	- not within the realms of animistic practice
+	- fortune tellers 
+		- mangkukulam
+		- albularyo
+		- not associated with the babaylanes
+		- claim to absorb the power of nature deities
+	- anting anting / agimat
+		- things worn that have been blessed by albularyo
+		- gayuma 
+			- love potion (drink)
+		- rupok 
+			- love spell (pangkukulam)
+			- rupokin the soul, pahihinain mo yung kaluluha para maging alipin
+			- kung may taong gusto pero hindi ako gusto, rupokin mo nga yung kaluluwa niya
+	- creatures/guardians
+		- aswang, tikbalang, tiyanak, manananggal
+			- protect environment
+		- friars told them that those were only inventions to control society
+- other cultural practices
+	- depends on location and climate
+	- concept of beauty 
+		- teeth filing
+		- skull moulding
+		- malapad ang noo
+	- penis pins
+		- ![[Attachments/Pasted image 20201009141234.png]] (india)
+		- austronesian connection 
+		- social status
+		- for sexual pleasure of women
+	- professional de-virginizers
+		- mostly likely there is blood in sexual intercourse
+		- job: draw first blood from the woman
+			- safe sex
+		- first blood is so potent that it can kill the man
+- Islam
+- ![[Attachments/Pasted image 20201009141651.png]]
+- 1450 important
+- Luzon (originally an indianized)***
+
+Good Sources:
+![[Attachments/Pasted image 20201009141903.png]]
+![[Attachments/Pasted image 20201009141910.png]]
+![[Attachments/Pasted image 20201009141933.png]]

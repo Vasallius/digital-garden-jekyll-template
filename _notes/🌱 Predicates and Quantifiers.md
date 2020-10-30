@@ -1,0 +1,30 @@
+- propositional logic can't capture membership
+- cannot use express **all** or **there exists**
+	- ∀ - universal quantifier
+	- ∃ - existenial quantifier
+- predicate - sentence containing a variable
+	- becomes a statement when values are assigned to variable
+- **domain of interpretation (DOI)**
+	- set of all values that can be substituted
+	- truth set
+		- set of all values in DOI that make predicate true
+	- **truth of sentence depends where you take x form**
+- universal and existential statement
+	- **universal: ∀xQ(x)**
+		- true if every x makes Q(x) true
+		- false if there is one x that makes Q(x) false	
+			- called a counterexample
+	- **existential: ∃xQ(x)**
+		- true if there is one x that makes Q(x) true
+		- false if every x makes Q(x) false
+	- **have higher precedence than all logical operators**
+- binary predicate - two variables
+	- to express relations
+	- can have different domains for each variable 
+- n-ary predicate - several variables
+- ![](Attachments/Pasted%20image%20388.png)
+- variable is **bound** when a quantifier is used on it
+	- the part where it is applied is called the **scope**
+	- name of variable linked to a quantifier is irrelevant
+- variable is **free** when not bound to a quantifider
+- all variables in predicate must be bound or set equal to a particular value

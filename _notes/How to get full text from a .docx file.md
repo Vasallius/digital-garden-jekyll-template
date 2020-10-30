@@ -1,0 +1,1 @@
+If we only need plain text without styling we use the `getText()` function, defined here, [[getText function snippet]].

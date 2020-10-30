@@ -1,0 +1,72 @@
+- p. 195 **Introduction to David Hume's Arguments**
+	- healthy skepticism is needed for miraculous stuff
+		- don't claim miracle status for things that can be explained using natural laws
+	- there is a difference between miracles and supernatural events
+		- miracles are supernatural events but not vice versa
+	- Hume states that miracles violate laws of nature
+		- there must be uniform experience to merit miracle status
+	- two arguments: 
+	- **uniformity of nature**
+		- miracles are violations of law of nature
+		- these laws have been established by firm and unalterable experience
+		- arguments from miracles are as good as any argument from experience
+	- **uniformity of experience**
+		- unusual, not frequently observed
+		- resurrection would be a miracle since it has not yet been observed
+		- there should be uniform experience to merit miracle status
+		
+- p. 197 **The argument from the uniformity of nature - Hume's self-contradictory position**
+	- just because the sun has risen every single day in the past does not mean it will rise tomorrow
+		- just because no one has risen from the dead the entire x number of years does not mean that no one will rise from the dead the next x years	
+		- example of decapitation, before it wasn't a thing doesn't mean Charles I was not decapitated
+		- **uniformity is one thing, absolute uniformity is another**
+	- Hume says we cannot use the past experience to predict the future
+	- nature isn't uniform so you can't argue against miracles
+	- resurrection of Christ - supreme evidence
+
+- p. 199 **Miracles and the Laws of nature**
+	- Hume: all events are entirely loose and separate
+		- unobservable tie between
+		- explicitly denies necessary connection
+			- billiard ball analogy
+		- denies causal relationships
+			- attack on Hume's theory of causation: Alfred North Whitehead
+			- people blink to light
+				- science shows that the existence of a complex casual chain
+		- since he denies causation, nature cannot be the preclude for miracles
+	- argument 1
+		- ![](Attachments/Pasted%20image%20347.png)
+			- accounts of miracles are from barbaric nations
+			- you cannot recognize what is abnormal if you do not know what is normal
+			- Luke (doctor and historian) account pf Zechariah and Elizabeth conceiving a son
+				- politely refused to believe at first
+				- was not prepared to believe since he was a Christian
+				- objection to resurrection weren't atheists, they were high priests
+				- ![](Attachments/Pasted%20image%20348.png)
+	- argument 2
+		- ![](Attachments/Pasted%20image%20349.png)
+		- ![](Attachments/Pasted%20image%20350.png)
+		- laws of nature are supposed to predict what should happen without God's intervention
+			- intervention doesn't violate the laws
+		- ![](Attachments/Pasted%20image%20351.png)
+		- resurrection did not happen by a natural mechanism
+			- supernatural power
+		- Christians do not deny the laws of nature
+
+
+- p. 203 **Hume's argument from the uniformity of experience**
+	- Hume assumes that there has never been miracles in the past. as such miracles in the future cannot happen
+	- impossible to even know in the first place
+
+- p. 204 **Hume's criteria for evidence and the credibility of witnesses**
+	- strength of the belief lies in the strength of the evidence
+	- ![](Attachments/Pasted%20image%20352.png)
+		- scientists believe in the big bang, absolute uniformity is impossible
+
+- p. 209 **Epilogue: Beyond science but not beyond reason**
+	- ![](Attachments/Pasted%20image%20353.png)
+	- rational intelligiblity of the universe
+	- Aunt Matilda's cake
+	- ![](Attachments/Pasted%20image%20354.png)
+	- ![](Attachments/Pasted%20image%20355.png)
+	- ![](Attachments/Pasted%20image%20356.png)

@@ -1,0 +1,1 @@
+ If there is a disconnect between our identity and the habit, more often than not we will be able to fail to execute that habit. And this is where unlearning comes in. We have to unlearn stuff that would potentially hinder our ability to execute our habits.

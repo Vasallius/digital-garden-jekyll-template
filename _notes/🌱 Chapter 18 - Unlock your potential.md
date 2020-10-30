@@ -1,0 +1,61 @@
+- p. 218 
+	- **your desire to figure things out right now is what prevents you from being able to figure things out**
+	- focus then diffuse, alternation between these methods help the thoughts marinate in different areas of our brain
+	- **reshaping our brain is under our control. the key is patient persistence-working knowledgably with our brain's strength's and weaknesses**
+	- this leads to well-formed neural structures with well-cured mortar everytime we learn something
+	- rote-memorization is an illusion that you actually understand math and science
+	- don't lose the forest for trees
+	- lockmaster's secret was knowing the default settings of the manafacturer
+		- if we can understand our brain's default settings and take advantage of it, we can b experts
+		
+- p. 221 Ten Rules of Good Studying
+	-  Use recall
+		- after reading a page look away and recall the main ideas
+		- don't highlight things you haven't recalled
+	 -  Test Yourself
+		  -  use flashcards 
+	  -  Chunk Your Problems
+		  -  after you solve a problem solve it again and make sure you understand every single step
+	  -  Space your repetition
+		  -  spread out learning in any subject
+	  -  Alternate different problem-solving techniques during practice
+		  -  don't focus on type of problem
+		 -  work on different types of problem
+	 -  Take breaks
+		 -  take a break and let your mind work in the background
+	 - Use explanatory questioning and simple analogies
+		 -   try to explain it to a 5 year old
+		 -   draw simple analogies and speak it loud
+	 -   Focus
+		 -   focus and work diligently
+		 -   then give a reward after you finish focused work
+	 -   Eat your frogs first
+		 -   do the hardest thing in the morning while you are still fresh
+	 -   Make a mental contrast
+		 -   imagine where you've come from and imagine where your studies can take you
+
+ -   p. 222 Ten Rules of Bad Studying
+	 -   Passive rereading
+			- rereading is a waste of time
+		- letting highlights overwhelm you
+			- you think that what you highlight actually goes into your brain but it doesn't
+			- a little highlighting helps but don't overdo it
+		- merely glancing a problem and thinking you know how to do it
+			- you need to not feel cocky and actually solve the problem step by step
+		- waiting until last minute to study
+			- just don't cram
+		- repeatedly solving problems you already know how to solve
+			- why practice something you're already good at
+		- dont let study sessions with friends turn into chat sessions
+			- waste of time
+		- neglecting to read the textbook before you start working problems
+			- would you dive into a pool before you knew how to swim?
+		- not checking with your instructors or classmates to clear up points of confusion
+			- instructors are there to instruct you so what are you waiting for
+		- thinking you can learn deeply when you are constantly distracted
+			- interrupted attention pulls out tiny neural roots
+		- not getting enough sleep
+			- in sleep your brain forms connections
+			- fatigue also builds up toxin
+			- nothing else matters aside from this
+	

@@ -1,0 +1,1 @@
+This process is gradual, slow, and excrutiating. It isn't an overnight process. We are micro-evolving day by day.

@@ -1,0 +1,33 @@
+- Details:
+	- Professor: Rom
+	- Email: rpferia@outlook.up.edu.ph 
+	- Time: **10:00-11:30**
+	- Working Hours:
+
+---
+- 🎥 Zoom Meetings
+	- **Time: Sep 11, 2020 10:00 AM**
+	- Link: https://up-edu.zoom.us/j/93614790766
+	- Meeting ID: 936 1479 0766
+	- Passcode: 9FBmkENJ
+- 📂 File Repository
+	- [Groups](https://groups.io/g/upcs10/message/2)
+	- [Canvas](https://canvas.instructure.com/courses/2305133?invitation=3TIiTMzQTYyWvgKmB7FAsHqAz1vh6HhaffzxZebl)
+	- [Mastodon](https://social.up.edu.ph/web/timelines/home)
+- ❓ Pending Questions
+	- 
+- 🖊 Notes
+	- [🌱 The Social Dilemma](%F0%9F%8C%B1%20The%20Social%20Dilemma.md)
+	- [🌱 History of Computers](https://www.cs.cmu.edu/~fgandon/lecture/uk1999/history/)
+	- [[🌱 Map of Computer Science]]
+	- [[🌱 What makes a computer, a computer]]
+	- [[🌱 Study Guide for Algorithms]]
+	- [[🌱  Computational Thinking]]
+	- [[📋 Software Developer vs Software Engineer]]
+	- [[📋 Computer Networks]]
+	- [[📋 The Internet]]
+	- [[📋 History of Internet in the Philippines]]
+	- [[📋 Cybersecurity]]
+	- [[📋 Cryptography]]
+	- [[Scientific Computing and Big Data]]
+

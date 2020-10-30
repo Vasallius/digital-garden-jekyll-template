@@ -1,0 +1,75 @@
+<iframe width="660" height="415" src="https://www.youtube.com/embed/3QhU9jd03a0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- latency: the time it takes for a message to transfer
+- networks first appeared 1650s and 1960s
+- ability to share resources
+	- printer
+	- storage drives
+- **Local Area Networks (LAN)**
+	- Ethernet (1970s)
+	- connected using ethernet cable
+	- **Unique Media Access Control**
+		- MAC Address
+		- to know whether the information was for them
+		- placed in the header
+		- every computer has a unique MAC Address
+	- approach called as Carrier Sense Multiple Access (CSMA)
+		- copper wire -> carrier (ethernet)
+		- air -> carrier (wifi)
+- **Bandwith**
+	- the rate at which a carrier can transmit data
+	- draw back:
+		- if network traffic is heavy
+		- collision might happen
+			- data gets all garbled up
+		- computers can detect these collisions by listening to the signal on the wire
+	- solution ?:
+		- stop transmitting
+		- however the same computers will do the same
+		- wait until carrier is silent then wait to jump in
+		- causes more collisions
+- **Ethernet Fix**
+	- wait for a brief period before they retransmit
+	- different wait durations
+		- 1.3 seconds and 1.5 seconds wait time
+	- extra trick:
+		- wait 2 seconds when it collides again
+			- 4, 8 , 16 , and so on
+		- called as the **exponential backoff**
+- **Collision Domain**
+	- the number of devices on any given shared carrier
+	- can break into 2 domains usings a **Network Switch**
+	- ![[Attachments/Pasted image 20201013111355.png]]
+- **Routing**
+	- **Circuit Switching** - switching whole circuits to route traffic to the correct destination
+		- inflexible and expensive
+	- if you have dedicated lines, you don't have to share
+		- can be used to full capacity
+	- **Message Switching**
+		- instead of dedicated route from A to B, messages are passed through several stops
+		- can use different routes]
+		- fault-tolerant
+		- the number of hops a message takes along a route is called the **hop count**
+			- keeping track is useful to identiy routing problems
+			- message might be passed endlessly between two cities
+			- waste of bandwith
+			- high hop counts ⇒ something gone wrong
+			- **hop limit**
+		- messages sometimes big
+			- solution:
+			- chop into **packets** (Packet Switching)
+				- might arrive in different order
+				- can be decentralized
+- IP Address
+	- every computer connected to a network has one
+	- **congestion control**
+		- balance the load
+- Different Protocols
+	- TCP/IP
+	- ICMP
+	- BGP
+- Arpanet
+	- world's first packet-switched network
+	- ![[Attachments/Pasted image 20201013112310.png]]
+
+Related: [[📋 The Internet]]

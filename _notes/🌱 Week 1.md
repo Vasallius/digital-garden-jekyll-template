@@ -1,0 +1,65 @@
+![](Attachments/Pasted%20image%20384.png)
+- **1. Kasaysayan vs History**
+	- history = western construct
+	- *saysay*
+	- pagsasalaysay ng mga bagay na may saysay
+	- part of social science
+		- follows a scientific method
+		- methodical
+	- science vs social science
+		- natural world and phenomena vs social phenomena (society)
+- **2. History as a Social Science**
+	- body of knowledge, not static
+	- don't pass a body of knowledge that is false
+		- marcos
+	- patterns of social behavior
+- **3. History as Humanities**
+	- human-centered
+	- **Teodora Agoncillo**
+	- historians and novelists	
+		- historians are bound by their facts
+		- novelists can twists facts to satisfy the plot
+	- recreate the past with a sense of realism
+	- people still are biased
+	- postive / negative historical revisionism
+		- breaking the rules of historical practice
+		- politically charged
+- history straddles between the social sciences and humanities
+- ![](Attachments/Pasted%20image%20385.png)
+- **availability of source**
+- big fire at manila [1]
+	- not everyone can observe it
+	- those who only witnessed it [2]
+	- only those who remembered and recorded the event [3]
+	- status of documents that survive time [4]
+	- similarity between those sources [5]
+		- + scrutiny
+	- publish history book [6]
+		- glimpse of the past / representation
+		- open-ended book
+- if history is relative and not to be trusted
+	- what will u believe?
+	- how will you know your national roots 
+- ![](Attachments/Pasted%20image%20386.png)
+- **veracity of sources**
+	- external critcism and internal criticism
+- *technically historians revise history every now and then*
+- **interpretation**
+	- interpret faithfully
+- **usage of source + how u approach it**
+	- primary source
+		- archival documents
+		- newspaper article
+		- government records
+			- be careful because facts can be manipulated
+			- whitewashed biography
+			- autoboigraphy
+		- inteview
+		- audio recording
+		- cctv footage
+	- secondary source
+		- interviews
+		- academic books
+		- journal article
+		- dissertations
+	- facts > theories

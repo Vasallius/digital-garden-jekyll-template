@@ -1,0 +1,3 @@
+### Alcohol inhibits REM sleep
+
+[[Matthew Walker]] says that alcohol can suppress REM sleep. This is one of the reasons why pregnant women are not advised to drink alcohol, as it also deprives the baby or fetus of REM sleep. According to the research, Autistic indivduals show as 30 to 50 percent deficit of REM sleep compared to people without autism. Blockage of REM sleep results to the distortment of brain development and that leads to an adult who is socially abnormal as we know [[Humans at the top of evolution's lofty pyramid|here]] that REM sleep facilitaties how people handle emotions and social interactions.

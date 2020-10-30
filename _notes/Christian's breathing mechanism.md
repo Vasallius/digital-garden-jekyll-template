@@ -1,0 +1,1 @@
+As humans, we naturally breathe by inhaling oxygen produced by plants. This is how we live and maintain our bodily functions. But as Christians, can we continue to live without *inhaling* God's word day and night? We spiritually die as we deprive ourselves of a basic necessity. Thus, continue to be in contact of God's word, lest you find yourself spiritually dead.

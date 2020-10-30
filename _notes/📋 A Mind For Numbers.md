@@ -1,0 +1,33 @@
+- Title: 
+	- A Mind For Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)
+- Author:
+	- [[Barbara Oakley]]
+
+---
+
+- [[🌱 Chapter 12 - Learning to Appreciate Your Talents]]
+	- [[🌲  Chunk until everything becomes automatic]]
+	- [[🌲  Making up for being a slow learner]]
+- [[🌱 Chapter 13 - Sculpting Your Brain]]
+	- [[🌲  Perseverance creates talent]]
+	- [[🌲  Reusable abstract chunks]]
+	- [[Deficiencies of innate ability may be compensated for through persistent hard work and concentration. One might say that work substitutes for talent, or better yet that it creates talent.]]
+- [[🌱 Chapter 14 - Developing the Mind's Eye through Equation Poems]]
+	- [[🌲  Visualize Concepts]]
+	- [[🌲  Simplify to Understand More]]
+	- [[🌲 Transfer your Learning]]
+- [[🌱 Chapter 15 - Renaissance Learning]]
+	- [[🌲  Learning on Your Own]]
+	- [[🌲 Don't be Afraid to Ask]]
+- [[🌱 Chapter 16 - Avoiding Overconfidence]]
+	- [[🌲 Avoid Overconfidence]]
+	- [[🌲 Brainstorm with Others]]
+- [[🌱 Chapter 17 - Test Taking]]
+	- [[🌲 Test-preparation]] 
+	- [[🌲 When anxious, breathe]] 
+	- [[🌲 Hard-to-easy technique]] 
+	- [[🌲 Double-check your answers]]
+- [[🌱 Chapter 18 - Unlock your potential]]
+
+---
+- [[📋 A Mind For Numbers Highlights]]

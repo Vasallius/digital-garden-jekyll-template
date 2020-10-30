@@ -1,0 +1,85 @@
+ #### Introduction: Finding the Box Top to the Puzzle of Life
+- p.19
+	- university is actually a composite of the words *unity* and *diversity*
+		- we're supposed to be guided to a quest to find unity in diversity
+		- but that isn't what has happened, instead it has been **reversed**
+		- instead of universities, we have pluralversities, schools that deem every viewpoint, no matter how ridiculous, just as valid as any other
+		- except the fact that one religion could be true
+- p.20 
+	- what someone believes about God affects everything else that he or she believes
+		- there are multiple implications that flow from the subject of God than any other subject
+			- origin: where did we come from?
+			- identity: who are we?
+			- meaning: why are we here?
+			- morality: how should we live?
+			- destiny: where are we going?
+	- choices you make now not only affect you here but will affect eternity
+		- **if there is no God, your life ultimately means nothing
+		- if there is no purpose to life, there's no right or wrong way to live it**
+		- because afterall, our destiny is dust
+- p.21
+	- some questions and arguments atheists argue
+		- if one true, powerful God actually exists, then he would intervene to clear up all the confusion
+		- after all, if God is realyl out there, then why does he seem to hide himself?
+		- why doesn't he just show up to debunk the false religions and and all the controversy?
+		- why doesn't he intervene to stop all the evil in the world, including all the religious wars?
+		- why does he allow bad things to happen to good people?
+- p.22
+	- you can't prove preferences
+		- *the same way we can't that our favorite food is superior than other foods*
+		- people think that religion is a matter of subjective taste/preference, but is not
+	- major religions of this world fall into these three worldviews: theism, pantheism, and athiesm
+		- **theist** - someone who believes in a personal God who created the universe but is not part of the universe
+			- God is like the painter and his creation is like the painting.
+		- **pantheist** - someone who believes in an impersonal God that literally is the universe
+			- God is the painting
+			- God is everything that exists; God is the grass, the sky, the tree, and whatever you can think of
+		- **atheist** - someone who does not believe in any type of God
+			- the painting has always existed and no one painted it
+		- **agnostic** - someone who is unsure about the question of God
+- p.23
+	- the claim that religion is simply a matter of faith is nothing more than a modern myth
+		- religion requires faith but is **not only** about faith
+		- facts are central to all religions because all worldviews including atheism, make truth claims and must be evaluated through scientific and historial investigation
+		- *Faith without reason is blind. Blind faith is very dangerous as you are like puppets controlled by a belief that you cannot justify. Such faith is not firm and not compelling to believe in. Such faith is not genuine.*
+	- by investigating the nature and history of the universe, we can reasonably conclude that one view is right and the other is wrong
+- p.24
+	- science and religion are not mutually exclusive categories as some suggest
+	- some struggles that hinder people from believing that Christianity is true
+		- **intellectual objections** - these people have genuine and sincere questions that need to be answered with truth
+		- **emotional obstacles** - the hypocrisy of some christians are emotional roadblocks for people to accept Christianity
+			- the biggest problem with Christianity is Christians
+			- *most often than not these people also have traumatic experiences such as being condemned, losing a loved one, or anything that can be attributed to God or Christians hurting them. These people need genuine care and support and not a bombardment of bible verses*
+		- **volitional reasons** - the view that Christianity restricts our choices in life
+	 - once we look at evidence, we can say that it takes more faith to be a non-Christian than it does to be a Christian
+- p.26
+	- [[Carl Sagan]] made the ultimate statement of faith in atheistic materialism when he claimed that "the Cosmos is all that is or ever was or ever will be." 
+		- How did he know that for sure?
+		- He didn't. How could he?
+		- The question is who has more evidence for their conclusion? The Christian or the Atheist?
+		- Faith covers a gap in knowledge
+			- atheists have bigger gaps in knowledge
+			- **the empirical, forensic, and philosophical evidence strongly supports conclusions consistent with Christianity**
+	- Main point: every worldview requires some degree of faith
+- p.29
+	- Socrates once said that the unexamined life is not worth living. 
+		- **The unexamined faith is not worth believing.** #quote	
+		- Matthew 22:37 commands us to love God with all our heart, soul, and **mind**.
+- p.30
+	- If Christianity has so much evidence then why don't more people believe it?
+		- Belief requires assent not only of the mind but also of the will.
+		- *No matter how much evidence you present to a person, if he/she does not want to believe, they won't believe.*
+		- [[Friedrich Nietzche]] once sai "It is our preference that decides against Christianity, not arguments"
+			- from here, we can see that his disbeilef was based on will, not intellect
+		- there's a difference between proving and accepting a proposition
+			- *even though a proposition may be proven true, it is ultimately up to us whether we accept it or not*
+- p.31
+	- God has provided each of us with the opportunity to make an eternal choice to either accept him or reject him.
+	- God has provided enough evidence in this life to convince anyone willing to believe, yet he has also left some ambiguity so as not to compel the unwilling
+	- In this way, God gives us the opportunity to either love him or to reject him **without violating our freedom**.
+	- [[C.S. Lewis]] wrote the Irresistible and the Indisputable are the two weapons which the very nature of [God's] scheme forbids Him to use. #quote	
+- p.32
+	- we humans have a fatal tendency to try to adjust the truth to fit our desires rather than adjusting our desires to fit the truth #quote 
+	- open-mindedness vs empty-mindedness
+		- For example, what should we do when we see evidence beyond a reasonable doubt that George Washington was the first president of the United States? Should we remain “open-minded” as to who the first president was? No, that would be **empty-minded**.
+		- *Knowing that something is already true yet still accounts other truths is not being open-minded, it is being empty-minded. We are often stereotyped for being close-minded, but should we be empty-minded and not take truth as truth?*

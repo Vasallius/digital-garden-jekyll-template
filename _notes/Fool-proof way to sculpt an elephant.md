@@ -1,0 +1,3 @@
+Sculpting seems pretty hard and requires such foresight on the development of the shape of the marble or whatever medium is being used. But, apparently a fool-proof way to sculpt something is to remove anything that doesn't look like it. I can relate this to the Christian life, it's simple if you wan't to sculpt a life that is holy and pleasing to God, simple chip away everything that isn't holy, a.k.a [[Sin as a flesh-eating bacteria|sins]]. But we cannot necessarily remove sins from our life, but we can reduce the triggers (any form of media), so might as well sculpt that as well.
+
+>A fool-proof method for sculpting an elephant: first, get a huge block of marble; then you chip away everything that doesn't look like an elephant.

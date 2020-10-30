@@ -1,0 +1,56 @@
+- `esc` and `i` for modes
+	- normal mode (movement)
+	- insert mode (writing text)
+- `h j k l` for basic movement
+	- left
+	- down
+	- up
+	- right
+- `w b e` for word movement
+	- jump towards the start of the  word
+	- jump backwards to  the start of the word
+	- jumps towards the end of the word 
+- `f` finding character
+- `%` jump towards matching grouping symbols
+	- `( [ { } ] )`
+- `0` and `$` for beginning and end of line
+	- beginning
+	- end
+- `*` and `#` for finding occurence of character under cursor
+	- after
+	- before
+- `gg` and `G` for jumping in file
+	- beginning of file
+	- end of file
+- `number` + `G` for jumping to line
+	- jump to specific line
+- `/` for searching
+	- enter word after the forward slash
+	- use `n` and `N` for next and previous occurences
+- `o` or `O` to inser text into a new line
+	- below
+	- above
+- `x` and `X` for deletion
+	- under
+	- left
+- `r` for replacement
+	- replacement without having to go to insert mode
+- `d` for deletion
+	- `dW` deletes the first word to right of cursor
+	- `p` pastes the copied word
+- `.` for command repetition
+- `v` for visual mode
+- `:w` for saving
+- `:q` for quitting
+- `:q!` for quitting without saving
+- `u` and `Ctrl+R` for undo and redo
+- `:help` for help
+---
+
+- tags
+	- year: #year2020 
+	- month: #September 
+	- associations: [[💻 Programming]]
+	- resource-type: #zettel 
+
+ 

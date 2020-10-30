@@ -1,0 +1,38 @@
+- Algorithm and flowchart are the powerful tools for learning programming.
+-  An algorithm is a step-by-step analysis of the process
+-  a flowchart explains the steps of a program in a graphical way
+-  relates to the name of the mathematician Al-khowarizmi
+-  used for planning and solvnig problems
+-  4 Characteristics
+	-  Input: An algorithm may or may not require input
+	-  Output: Each algorithm is expected to produce at least one result
+	-  Definiteness: Each instruction must be clear and unambiguous
+	-  Finiteness: If the instructions of an algorithm are executed, the algorithm should terminate after finite number of steps
+-  3 Control Structures
+	-  Sequence: In the sequence structure, statements are placed one after the other and the execution takes place starting from up to down
+	-  Branching: does something depending on whether the condition is true or false
+	-  Loop: execute somethign while a condition is rue
+-  Advantage
+	-  not dependent on any programming language
+	-  easy to debug since every step has its own logical sequence
+-  How to Write Algorithms
+	-  specify what kind of input you want (e.g. data type) and how many
+	-  define the variables, make them meaningful
+	-  outline the operations, what do you do with the variables
+	-  output the results, return an output value based on the computations made
+-  Flowchart
+	-  designed by John Von Neumann back in 1945
+	-  advantage:
+		-  graphical
+		-  blueprint
+		-  easy to convert into code
+	- diagrammatic /Graphical representation of sequence of steps to solve a problem
+	- ![[Attachments/Pasted image 20201012111412.png]]
+	- ![[Attachments/Pasted image 20201012111423.png]]
+	- ![[Attachments/Pasted image 20201012111514.png]]
+	- ![[Attachments/Pasted image 20201012111635.png]]
+	- ![[Attachments/Pasted image 20201012113115.png]]
+	- ![[Attachments/Pasted image 20201012113121.png]]
+	- ![[Attachments/Pasted image 20201012113131.png]]
+	- ![[Attachments/Pasted image 20201012113137.png]]
+	- We can use keywords like INPUT or READ or GET to accept input values and PRINT or WRITE or DISPLAY to output results

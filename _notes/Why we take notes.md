@@ -1,0 +1,3 @@
+tags: #zettelkasten 
+
+We take notes to refer them in the future but in reality they we barely come back and look at our notes made years ago. If so, what is the purpose of taking notes? We are supposed to take notes in a smart way, in a way that it shows interlinking of our previous ideas, which in turn result into production of more ideas and insights.  A good note-taking method would be the [[Zettelkasten Method]]. 

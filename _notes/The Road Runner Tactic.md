@@ -1,0 +1,3 @@
+- references:
+	- I Don't Have Enough Faith to be an Atheist by [[Frank Turek]] and [[Norman Geisler]]
+	- p. 38-41

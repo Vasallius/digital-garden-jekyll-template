@@ -1,0 +1,47 @@
+### Daily Devotions
+Hi Jed. These a list of daily devotions you do. Make sure to come back and check often. Figure out connections that haven't been made. I hope you understand the Bible more and create more original insights.
+- May 31, 2020: [[Confession and Repentance]]
+- June 1, 2020: [[The Lord's Supper]]
+- June 2, 2020: [[Rest and Solitude]]
+- June 3, 2020: [[Worship and Singing]]
+- June 15, 2020: [[Desiring More of HIm]]
+- June 16, 2020: [[Finding Satisfaction in Him]]
+- June 18, 2020: [[Becoming More Like Him]]
+- July 2, 2020: [[And Do You Not Remember]]
+- July 5, 2020: [[Review, Reflect, Respond I]]
+- July 6, 2020: [[Superficial Knowledge of God]]
+- July 7, 2020: [[Questions on the Way]]
+- July 8, 2020: [[What Kind of Messiah]]
+- July 9, 2020: [[What Kind of King]]
+- July 10, 2020: [[Divine Must in Discipleship]]
+- July 11, 2020: [[Progressing in Realistic Discipleship]]
+- July 13, 2020: [[Destiny Changing Prayers]]
+- July 15, 2020: [[No Timelier Time to Pray]]
+- July 16, 2020: [[Giving Our All to God I]]
+- July 17, 2020: [[Giving Our All to God II]]
+- July 20, 2020: [[To See, Feel and Act]]
+- July 21, 2020: [[The Sent and the Sender]]
+- August 18, 2020: [[Make Rest Your Friend]]
+- August 19, 2020: [[Rest is a Gift]]
+- August 20,2020: [[Find Your Place to Focus]]
+- August 22, 2020: [[🌱 Meditate on Scripture]]
+- August 24, 2020: [[🌱 Find Your People]]
+- August 25, 2020: [[📋 The Big Picture#Day 1]]
+- August 26, 2020: [[🌱 Start - Mark 1 Intro]]
+- August 27,2020: [[🌱 Start - Mark 1]]
+- August 28,2020: [[🌱 Start - Mark 2]]
+- August 29,2020: [[🌱 Start - Mark 3]]
+- September 1: [[🌱 Start - Mark 4]]
+- September 2: [[🌱 Start - Mark 5]]
+- September 6: [[🌱 Start - Mark 6]]
+- September 9: - [[🌱 Start - Mark 7]]
+---
+ 
+Wanna go back to headquarters? Click [[🗺Headquarters|here.]] 
+
+Some related links you might find useful: 
+- [[🙏 Christianity]]
+- [[🙏 Prayer Journal]]
+- [[Bible Study]]
+
+#christianity 

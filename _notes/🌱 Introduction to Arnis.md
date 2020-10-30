@@ -1,0 +1,90 @@
+- References
+	- https://www.youtube.com/watch?v=hYVkVA_oeIU&feature=youtu.be
+	- https://www.youtube.com/watch?v=T8vdmVrJg24&feature=youtu.be
+	- https://www.youtube.com/watch?v=Zn7YSKUcZFk&feature=youtu.be
+
+---
+
+- Srivijayan empire was overthrown by the Mahapahit empire 
+	- This empire retreated to Philippines, Visayan islands
+- April 27, 1521 
+	- Ferdinand Magellan died to Visayan warriors at Battle of Mactan
+- Spanish came back and eventually subjucated the islands
+	- Spaniards prohibited Filipinos from practising Escrima as such, they practiced underground
+- **Documentary**
+	- Patling Village
+		- people were practising Arnis
+		- 2 men in combat with 80cm long sticks
+- Three Basic Moves of Arnis
+	- taga - hitting
+	 - sangga - parrying 
+	 - agaw - disarming
+- kali means to scrape 
+	- form of self defense
+- **2 Types of Weapons**
+	- bladed or edge weapons
+		- bolos
+		- knifes
+	- impact weapons
+		- baston
+- **Importance**
+	- kill magellan  
+	- thwarted US in the spanish american war 
+	- employed heavily against japan
+- **Stockton**
+	- Carlito Bonjoc
+		- filipinos were employed as farmers
+		- asparagus and tomatoes (california)
+		- sugarcane and pineaple (hawaii)
+		- kept their martial arts
+		- 1966 
+			- first time martial arts were taught outside the Philippines
+		- Dan Inosanto
+			- did resesearch on Filipino Martial Arts
+- **Future of Martial Arts**
+	- bickering and fighting will always continue
+	- it's not about us, it's about the martial arts and its future
+	- unity is needed
+	- *one person at a time*
+	- room for integrating other martial arts
+	- take it back to old school
+		- spirit of sharing and collaboration
+- **Dan Inosanto WW2 Story**
+	- Japanese found out about the art of arnis
+	- surprised that they were proficient in the close quarter combat
+		- ~1942-1945
+		- brought into a boat and disappeared
+	- bola was effective
+		- jungle terrain
+		- was effective against samurais
+	- three groups
+		- people wanting American
+		- people wanting Japanese
+		- people wanting Philippines
+		- three-way
+- **Grandmaster Leo Giron Interview**
+	- May 27, 1991
+		- Largo Mano style was the growing style
+		- before people didn't play with protective gear, so some of them will get injured and get carried to the stretcher
+		- Filipino soldiers were remarkable
+		- Jungle Warfare theory
+		- simplicity is king
+		- don't let opponent know you are afraid
+		- "the more you think about getting hurt, the more you get hurt"
+		- vs samurai
+			- they use two hands
+			- a lot of openings
+		- vs japanese
+			- infantry men, section leader in mortar then get promoted
+			- section leader in light machine gun
+			- morse Code, army code, transposition system, different kinds of code
+			- sent to New Guinnea
+			- MacArthur leaves Philippines then returns to save Philippines from Japanese conquest
+			- eskrima people were captured and was sent to a boat to Japan
+	- 1966-1968
+		- Leo opened a club to teach eskrima
+		- because nurses died
+	- art in protecting one's land, women, and children
+	- one of the grandfathers who brought kali/arnis/escrima to america
+	- no atheists in the hole, everyone has fear of death
+			

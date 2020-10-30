@@ -1,0 +1,40 @@
+- metadata
+	- reference: https://www.youtube.com/watch?v=LuDqAD2VtDQ
+
+---
+
+- Austronesian Migration
+- 5000 years ago, ancestors of SE Asian began a journey
+- Southern China ⇒ Taiwan ⇒ Philippines (Batanes) ⇒ Madagascar ⇒ Eastern Islands (South American)
+	- came there by boat
+	- canoes
+	- expert sea-farers 
+	- *Outrigger Canoe* and *double hulled sailing canoe*
+	- during neolithic area, these sophisicated sailing culture aided the spread of austronesian language
+	- 1200 languages part of the austronesian
+- beliefs of the austronesian were central
+	- burial jar in manunggul cave
+		- figure of a boat of transporting the dead to the afterlife
+	- sea dominated life and death
+	- architecture, homes would show concepts of upper world, underworld and earthly world
+		- spaces below for animals
+		- middle rooms for people
+		- high room for ancestral worship
+	- weaving of cloth using backstrap loom
+		- one end tied to a tree
+		- other strapped to weaver's back
+	- chewing of betelnuts quits
+		- result to reddening of teeth
+	- nephrite bracelets and earrings
+	- Peter Bell found a jade workshop
+		- Lingling-O Earrings
+			- three-pointy-sided found in palawan and in malaysia
+		- evidence of shared culture
+- austronesian = most widepsread language
+- Philippines played an important role in the spread of austronesian languages
+- shared cultural heritage
+	- indonesian
+	- vietname
+	- madagascar
+	- native taiwan
+	- virtually all the pacific islands

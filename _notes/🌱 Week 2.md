@@ -1,0 +1,74 @@
+- lens in science and geology
+	- ![](Attachments/Pasted%20image%2020200924144735.png)
+	- ![](Attachments/Pasted%20image%2020200924145000.png)
+	- ![](Attachments/Pasted%20image%2020200924145057.png)
+	- ![](Attachments/Pasted%20image%2020200924145203.png)
+- lens in culture and cultural beliefs
+	- mythology
+ - can't explain what people did after the landmasses form
+	- ![](Attachments/Pasted%20image%2020200924145704.png)
+	- **Paleolithic**
+		- crude stone tools
+		- forage food from forests
+		- boats were not that used
+			- fishing in shallow waters
+			- spear
+	- **Mesolithic**
+		- microliths
+		- transition period
+		 - became nomadic as well
+				- follow sense of food
+	- **Neolithic**
+		- change in lifetstyle and economic activity
+		- looks legit equipment - microliths
+			- added shell tools
+				- sharp shell shards
+			- horticulture
+				- cultivating plants for food
+			- fishing 
+				- now had boats
+			- animals to aid them in economic activity
+				- beasts of burden
+				- breeding for food
+			- agriculture
+				- sense of permanency
+				- sustainable
+				- before hunting gave immediate food
+				- agriculture gave more food = surplus
+				- grains
+			- pottery
+				- storage of surplus
+			- trade
+				- because of surplus
+				- endemic products that weren't available to us
+				- peaceful
+			- warfare
+				- cause: get product in hostile manner
+				- primarily because of basic needs
+	- **Bronze Age and Iron Age**
+		- different types of tools not anymore iron
+			- used copper tine then iron
+				- tools and weapons
+			- more trade
+				- more wars
+		- society became more complex
+			- different cultures and traditions
+			- barangay concept
+	- ![](Attachments/Pasted%20image%2020200924151258.png)
+	- ![](Attachments/Pasted%20image%2020200924151315.png)
+	- ![](Attachments/Pasted%20image%2020200924151332.png)
+	- prehistory
+		- meaning wala pang history? 
+			- meron
+			- geologic history
+		- accounts of early humans
+		- act of writing down what is important
+		- no historical thinking at that time yet
+	- method of communication	
+		- tried to imitate sounds of nature and animals
+		- symbols and pictures
+		- how was baybayin formed
+			- possible: indianization
+			- different factors
+		- irrigation
+			- ditches and artificial small canals

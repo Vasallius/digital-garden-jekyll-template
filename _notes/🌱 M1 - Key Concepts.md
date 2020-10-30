@@ -1,0 +1,87 @@
+- A Computer is an electronic device that can perform activities that involve Mathematical,
+Logical and graphical manipulations.
+- Three operations
+	- receive data and instructions from input device
+	- process the received data 
+	- output a result
+- Data : It is the collection of raw facts, figures & symbols
+- Information : It is the data that is processed & presented in an organized manner
+- Program : Set of instructions that enables a computer to perform a given task.
+- **Anatomy**
+	- ![](Attachments/Pasted%20image%20375.png)
+	- CPU 
+		- brain of the computer
+		- carries out instructions
+		- Memory Unit
+			- primary storage of main memory
+			- stores instructions and results
+			- sent to the output device
+			- consists of thousands of cells called storage location
+				- activate using binary (0,1)
+				- bits used to store data
+		- Arimethic and Logical Unit (ALU)
+			- all arithmetic operations and evaluation of logical functions are performed
+			- receives the data that needs to be processed from the memory unit
+		- Control Unit
+			- central nervous system
+			- ensures program flow is followed
+			- coordinates with input and output devices in the system
+- **Memory of a Computer**
+	- three criteria
+	- access time - time required to locate and retrieve stored data as a response to instructions
+	- storage capacity - how much data can be stored
+	- cost per bit of storage
+	- units of memory
+		- basic unit of memory is a bit (binary digit)
+		- characters require 8 bits (1 byte)
+		- ![](Attachments/Pasted%20image%20376.png)
+	- conversion
+		- ASCII
+		- characters have corresponding codes that can be converted to binary
+	- RAM
+		- read/write memory as information
+		- stores instructions for programs and data
+		- data is only in RAM when computer is running, disappears when computer is turned off
+		- volatile
+	- ROM
+		- read-only memory, cannot write
+		- built-in memory of a computer
+		- stores only basic input - output instructions
+		- permanent
+		- non-volatile
+- **Hardware and Software**
+	- Hardware
+		- physical components of a computer
+		- things we can touch
+	- Software
+		- program or set of instructions
+		- without the software, hardware won't function
+- **Categories**
+	- Operating System
+		- software that manages the resources of the computer
+		- interface between user and hardware
+	- Translators
+		- computers only understand machine language, as such programs must be translated first
+		- software that translates is called a translator
+		- two types of translator
+			- compilers
+				- checks if program is error free
+				- produces the entire program in machine language
+				- translation before execution
+			- interpreters
+				- translates and executes one line at a time
+			- differences
+				- error corrections is easier in interpreters, error list is only produced after the entire program (compiler)
+				- interpreter takes more time for execution as it is translated one line at a time
+	- **Programming Languages**
+		- Machine Language
+			- language in terms of binary
+		- Assembly Language
+			- uses mnemonic codes rather than numeric codes
+			- machine dependent
+		- High-Level Language
+			- referred to as Problem-Oriented Language
+			- convenient for writing programs
+				- english like language
+			- machine independent
+				- can be ran on any computer

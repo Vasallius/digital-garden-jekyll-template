@@ -1,0 +1,20 @@
+- Used to prove existential statements
+	- constructive
+		- finding an element of the domain
+	- nonconstructive
+- Constructive Examples
+	-  ![[Attachments/Pasted image 20201013082841.png]]
+	-  ![[Attachments/Pasted image 20201013083004.png]]
+-  Nonconstructive Examples
+	-  Do not need to find the examples
+	-  Examples exists, we just cannot identify it
+	-  ![[Attachments/Pasted image 20201013083203.png]]
+	-  ![[Attachments/Pasted image 20201013083246.png]]
+-  Uniqueness Proofs
+	-  Two parts
+		-  Existence
+		-  Uniqueness
+			-  show that if two elements satisfy the property, they are the same element `x=y`
+-  Uniqueness Proof Examples
+	-  ![[Attachments/Pasted image 20201013083649.png]]
+-  ![[Attachments/Pasted image 20201013083722.png]]

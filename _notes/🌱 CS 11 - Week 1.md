@@ -1,0 +1,16 @@
+- Napier's Bones
+	- innovative
+	- multiplication, division, square, and cube root
+- Slide Rule
+	- William Oughtred
+	- logarithms
+	- trigonometry
+- Stepped Reckoner
+	- Gottfried Wilhelm Leibniz
+	- machine that can add, subtract, multiply, and divide automatically
+- ![](Attachments/Pasted%20image%2020200924181736.png)
+- ![](Attachments/Pasted%20image%2020200924181911.png)
+- ![](Attachments/Pasted%20image%2020200924182039.png)
+- ![](Attachments/Pasted%20image%2020200924182127.png)
+- CHECK THIS
+- https://ftms.edu.my/v2/wp-content/uploads/2019/02/csca0101_ch01.pdf

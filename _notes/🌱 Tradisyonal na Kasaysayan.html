@@ -1,0 +1,698 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>🌱 Tradisyonal na Kasaysayan.md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+<ul>
+<li><strong>GOALS</strong>
+<ul>
+<li>Maipalawanag ang mga konseptong pangkasaysayan</li>
+<li>Masuri ang mga suliranin sa proseso ng pagbubuo ng naratibo sa kasaysayan</li>
+<li>Mapahalagahan ang pag-aaral ng kasaysayan</li>
+</ul>
+</li>
+</ul>
+<hr>
+<ul>
+<li><em>Charles Victory Langlois</em> and <em>Charles Seignobos</em>
+<ul>
+<li>metodolohiyang tradisyunal</li>
+<li>method was already used in Europe before</li>
+<li>Book: <em>Introduction to the Study of History</em> first contained full elaboration of the methodology</li>
+</ul>
+</li>
+<li>
+<h3 id="characteristics-of-traditional-method">Characteristics of Traditional Method</h3>
+<ul>
+<li><img src="Attachments/Pasted image 358.png" alt=""></li>
+<li>history only consists of past events</li>
+<li>importance of documents in order to piece out what happened in history</li>
+<li>criticism of authenticity of the document and its claims</li>
+<li>places importance on rulers of society</li>
+</ul>
+</li>
+<li>❓ How can the historian verify stuff he did not see and experience by himself?
+<ul>
+<li>direct witnessing</li>
+<li>indirect witnessing
+<ul>
+<li>analyzing remnants and remains of the events</li>
+<li>forensic science</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<h3 id="ang-tradisyunal-na-batis-ang-dokumentong-nakasulat">Ang Tradisyunal na Batis: Ang Dokumentong Nakasulat</h3>
+<ul>
+<li>documents play an important role
+<ul>
+<li>no document = no history</li>
+</ul>
+</li>
+<li>#verify <strong>heuristic technique</strong></li>
+<li>==problem: we are lacking in documents==
+<ul>
+<li>especially documents from sinaunang lipunang Pilipinos</li>
+<li>kronika ng ibang bansa na nakipagkalakal sa atin</li>
+<li>wala sa atin mismo</li>
+</ul>
+</li>
+<li>what's written in documents is not really the event itself, rather palatandaan ng sikolohiya at pag-iisip ng author
+<ul>
+<li>hindi pa tumpak na pagsasaksi</li>
+</ul>
+</li>
+<li>==historians don't easily believe what they discover==
+<ul>
+<li>instead they question a lot of stuff</li>
+<li>kritikang panlabas o kritika ng kapantasan</li>
+<li>kritikang panloob o kritika ng kapaniwalaan</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<h4 id="ang-kritikang-panlabas">Ang Kritikang Panlabas</h4>
+<ul>
+<li><strong>1. Restitusyon</strong>
+<ul>
+<li>checking of document to return to its original state</li>
+<li>error checking against main idea
+<ul>
+<li>some are just &quot;inserts&quot; by other people</li>
+</ul>
+</li>
+<li>need to know the author, his works, and his style</li>
+<li>cross check with other copies of documents</li>
+<li>also need to know the language of the document
+<ul>
+<li>problem: foreign language (spanish and english)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>2. Pagtakda ng pinanggalingan</strong>
+<ul>
+<li>date
+<ul>
+<li>often newer documents have dates</li>
+<li>older documents don't
+<ul>
+<li>need to analyze handwriting, behavior of people, dress code, events, and word usage</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>place
+<ul>
+<li>where did the document come from?</li>
+<li>determines social and political direction of the document</li>
+</ul>
+</li>
+<li>author
+<ul>
+<li>don't easily believe the author stated in the documents (he may not be the writer)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>3. Pag-uuri ng mga batis</strong>
+<ul>
+<li>how did the author know of the events he wrote of?</li>
+<li>if direct witnessing, we can use</li>
+<li>if indirect witnessing, find the original source
+<ul>
+<li>if can't be found, use second batis</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>just because document is authentic doesn't mean contents is true and right</strong>
+<ul>
+<li><img src="Attachments/Pasted image 359.png" alt=""></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<h4 id="ang-kritikang-panloob">Ang Kritikang Panloob</h4>
+<ul>
+<li>checking the content</li>
+<li>checking the conditions to which led to the creation of this document</li>
+<li>Pagsuri ng nilalaman ng dokumento
+<ul>
+<li><em>interpretative criticism</em></li>
+<li>**STEP 1: **Pagsusuri ng nilalaman ng dokumento
+<ul>
+<li>however, literal meanings chance</li>
+<li>==literal interpretations need to be reinforced with historial interpretations==</li>
+</ul>
+</li>
+<li><strong>4 Principles</strong>
+<ul>
+<li>meaning of words evolve
+<ul>
+<li>know the meaning of word in that context and situation</li>
+</ul>
+</li>
+<li>language has different importance/meaning in different places</li>
+<li>different authors have different styles</li>
+<li>expressions also change, need to read it with the main idea in mind</li>
+</ul>
+</li>
+<li>to know the true meaning</li>
+<li>#verify <strong>hermeneutic technique</strong></li>
+<li>**STEP 2: **Pagtakda ng katiyakan ng pag-uulat
+<ul>
+<li>analyze the environment</li>
+<li>need to know the author's beliefs</li>
+<li>need to know if author truly witnessed the event</li>
+<li>shows the authenticity and katumpkan ng saksi</li>
+<li><img src="Attachments/Pasted image 360.png" alt=""></li>
+<li><strong>common reasons to not be faithful to writing</strong>
+<ul>
+<li><strong>Reason 1</strong></li>
+<li>author wants to benefit from their writing</li>
+<li>coerce the reader to do or not do something</li>
+<li>almost all official documents</li>
+<li>reasons to lie:
+<ul>
+<li>personal interest</li>
+<li>collective interest</li>
+<li>==need to know where the author stands==</li>
+</ul>
+</li>
+<li><strong>Reason 2</strong></li>
+<li>put into situations where author has to lie</li>
+<li>often when documents must adhere to the normal or the mandated rules</li>
+<li><strong>Reason 3</strong></li>
+<li>author has sympathy or anti-sympathy towards a group of people, institution or ideology</li>
+<li><strong>Reason 4</strong></li>
+<li>forced to lie for self-glorification</li>
+<li>needs to be doubted or questioned</li>
+<li><strong>Reason 5</strong></li>
+<li>either give happiness to public or avoid panic and shock</li>
+<li>depends on the morality of the public</li>
+<li><strong>Reason 6</strong></li>
+<li>flowery words</li>
+<li>will add vivid and colorful details</li>
+<li>will insert dakilang gawain, adhikain, o pananalita ang mga taong isusulat niya</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>not at all times can we determine the author</strong></li>
+<li>can the historian use a document with an unnamed author?
+<ul>
+<li>compare to similar writings or groups</li>
+</ul>
+</li>
+<li>how will you analyze this?</li>
+<li>only fraction of events, how does this fit the bigger picture?</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<h3 id="ang-pamamaraan-ng-pagbubuo-ng-kasaysayan">Ang Pamamaraan ng Pagbubuo ng Kasaysayan</h3>
+<ul>
+<li><strong>4 WAYS</strong></li>
+<li><strong>1. Paghahambing sa Kasalukuyan</strong>
+<ul>
+<li>compare to present events</li>
+<li>notice the similarities and differences</li>
+<li>historian must be knowledgeable about current events</li>
+</ul>
+</li>
+<li><strong>2. Pag-uuri ng Kaganapan</strong>
+<ul>
+<li><strong>4 URI</strong></li>
+<li>ayon sa panlabas na kalagayan
+<ul>
+<li>isang panahon</li>
+<li>isang bansa</li>
+<li>isang tao</li>
+</ul>
+</li>
+<li>ayon sa panloob na kalagayan
+<ul>
+<li>sining</li>
+<li>relihiyon</li>
+<li>panitikan</li>
+</ul>
+</li>
+<li>ayon sa isang grupong taglay ang iisang katangian
+<ul>
+<li>know the group and its beliefs</li>
+<li>where do they differ and where do they agree</li>
+</ul>
+</li>
+<li>ayon sa panahon
+<ul>
+<li>will be able to determine start and end of panahon if we know what chnaged the behaviors of the people</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>need to study about events in that civilization
+<ul>
+<li>institution</li>
+<li>behavior</li>
+<li>idea</li>
+<li>politics</li>
+</ul>
+</li>
+<li>most events come from people in power
+<ul>
+<li>two ways to know if the person was influential enough</li>
+<li><img src="Attachments/Pasted image 361.png" alt=""></li>
+<li><img src="Attachments/Pasted image 362.png" alt=""></li>
+</ul>
+</li>
+<li><strong>3. 	Paggamit ng Pangangatwiran</strong>
+<ul>
+<li>since not all documents and not all events are recorded, reason is necessary</li>
+<li><strong>Ang Negatibong pangangatwiran</strong>
+<ul>
+<li>reason from lack of evidence</li>
+<li>if event was not mentioned in other documents, it didn't happen</li>
+<li>==absence of evidence isn't evidence for absence==
+<ul>
+<li>secret stuff of government</li>
+<li>events concerning maltreatment of poor people</li>
+</ul>
+</li>
+<li><strong>two usapin</strong>
+<ul>
+<li>if an event is not mentioned, there is an interested to gather all data first</li>
+<li>an event must be very influential that it can't be hidden to the public</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Ang Positibong Pangangatwiran</strong>
+<ul>
+<li>starts with an event proved by an authentic method</li>
+<li>find truths that that document did not mention</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>4. Ang Paglalahad ng Pangkalahatang Pormula</strong>
+<ul>
+<li>form a formula and attach all events</li>
+<li><strong>Three Formulas</strong>
+<ul>
+<li>destiny / meant to be / willed by God
+<ul>
+<li>everything starts ane ends with GOd</li>
+</ul>
+</li>
+<li>rational and everything fits a whole plan</li>
+<li><img src="Attachments/Pasted image 363.png" alt=""></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<h3 id="panumbalik">Panumbalik</h3>
+<ul>
+<li>history is about analyzing the documents written</li>
+<li>documents must not be lost or broken</li>
+<li>documents are needed to show the real events</li>
+<li>history explains how our present came to be</li>
+<li>history enriches thinking</li>
+<li>doing criticism is good for the brain and makes us sharp</li>
+<li>we'll be able to differentiate the civilization and people</li>
+<li>shows change; we should not be afraid of change</li>
+</ul>
+</li>
+</ul>
+
+</body>
+</html>

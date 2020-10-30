@@ -1,0 +1,78 @@
+ - **p. 133 Information in the cell**
+	 - information in DNA is fundamental to life
+
+- **p. 134 What is DNA?**
+	- deoxyribose nucleic acid
+	- double helix structure
+	- made out of simpler molecules called nucleotides
+		- contains ribose and a phosphate group (without oxygen)
+		- bases: A C G T
+		- paired A-T and G-C by hydrogen bonds
+		- three nucleotides is called a **codon** = amino acid
+		- `4^3` or `64` possible triples
+	- **genomes** comprise of full sets of genes
+	- 10 trillion cells in the human body, 20 trillion meters DNA
+
+- **p. 140 How does DNA give rise to the proteins**
+	- needed to construct enzymes using the ribosomes
+	- DNA splits since hydrogen bonding is weak
+		- DNA is transcribed to RNA (mRNA)
+		- complementary to DNA but T is replaced by U
+	- ribosome process this new strand of information
+	- Evolutionary Biologists John Maynard Smith and Eors Szathmary confess that:
+		- >The existing translation machinery is at the same time so complex, so universal, so essential, that it is hard to see how it could have come into existence, or how life could have existed without it
+	- what came first question (chicken vs egg)
+		- can be thought off what large molecule came first DNA or protein
+	- Gerald F. Joyce and Leslie Orgel concluded that the spontaenous appearance of RNA chains on the lifeless earth would have been a near miracle
+
+- **p. 142 Is it all the genes?**
+	- central dogma that everything has been predetermined by your genes
+
+- **p. 143 A hierarchy of complexity**
+	- there are few genes to account for the complexity of our inherited characteritics
+		- 30,000-40,000 genes out of 100,00 proteins
+	- Steve Jones
+		- > A chimp may share 98 per cent of its DNA with ourselves but is not 98 per cent human
+		- doesn't mean we share genes with another animal make us very similar to that animal
+	- cells only expresses or turns on a fraction of it's genes and the rest are turned off or are *repressed*
+		- called **gene regulation**
+	- one gene isn't necessarily only responsible for a single trait
+		- not only `one to one`, can be `many to one`
+		- ![[Pasted image 310.png]]
+		- https://www.nature.com/articles/ng0402-343#:~:text=In%20a%20long%20essay%20entitled,be%20true%20about%20their%20subject.
+		- Human Genome Project confirms this
+- **Unravelling the DNA Myth - 3 Discoveries**
+	- *Alternative Splicing*
+		- Crick's hypothesis
+			- *single gene encodes the amino acid sequence of a single protein*
+			- needs revision
+			- not one to one correspondence
+			- some material may be removed and recombined
+			- *cut and paste technique*
+			- ![[Pasted image 311.png]]
+			- ![[Pasted image 312.png]]
+			- errors in splicing may be the most likely cause of amyotrophic lateral sclerosis
+	- *Error-correction*
+		- DNA in a living cell replicates with 1 error per 3 billion nucleotides
+			- human genome is about 3 billion nucleotides
+		- in a test tube
+			- 1 in 100
+		- in a test tube with proteins added
+			- 1 in 10 million
+		- James Shapiro
+			- ![[Pasted image 313.png]]
+	- Which came first, chicken or egg?
+		- DNA would depend on life for existence and not the other way around
+		- *DNA did not create life, life created DNA* - Commoner
+		- DNA needs RNA and protein to put the information to use
+		- symbiosis
+		- ![[Pasted image 314.png]]
+	- *The geometry of proteins*
+		- before, it was known that proteins fold themselves
+			- but now some proteins need helpers or chaperone to fold themselves to be able to be active
+
+- **p. 147 Proteomics and Information processing in the cell**
+	- ![[Pasted image 315.png]]
+	- the more the living cell is studied the more it bears resemblance with computers
+		- our cell's information processing capacity is just way too good
+	- ![[Pasted image 316.png]]

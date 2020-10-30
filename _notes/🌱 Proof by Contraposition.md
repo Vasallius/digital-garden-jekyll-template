@@ -1,0 +1,9 @@
+- p ⇒ q ≡ ¬q ⇒ ¬
+- ![](Attachments/Pasted%20image%2020200928172031.png) 
+	- ![](Attachments/Pasted%20image%2020200928172125.png)
+	- direct proof based from the contrapositive
+	- ![](Attachments/Pasted%20image%2020200928172239.png)
+	- ![](Attachments/Pasted%20image%2020200928172304.png)
+	-  ![](Attachments/Pasted%20image%2020200928172512.png)
+	-  **PRACTICE**
+		-  ![](Attachments/Pasted%20image%2020200928172543.png)

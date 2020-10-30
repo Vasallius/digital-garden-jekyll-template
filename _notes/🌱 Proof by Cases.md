@@ -1,0 +1,15 @@
+- divide and conquer
+-  cover all possible cases that arise in a theorem
+	-  each case must lead to the same conclusion
+-  use at least cases as possible as long as it covers all possibilities
+-  ![[Pasted image 20201006094621.png]]
+-   ![[Pasted image 20201006094840.png]]
+	-    ![[Pasted image 20201006095008.png]]
+-    ![[Pasted image 20201006095436.png]]
+-    ![[Pasted image 20201006095509.png]]
+-    ![[Pasted image 20201006095712.png]]
+	-    ![[Pasted image 20201006100051.png]]
+	-    ![[Pasted image 20201006100221.png]]
+-    When to use:
+	-    ![[Pasted image 20201006100254.png]] 
+-    ![[Pasted image 20201006100423.png]]

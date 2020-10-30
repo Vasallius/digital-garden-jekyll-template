@@ -1,0 +1,23 @@
+- reference
+	- https://www.youtube.com/watch?v=-ZS_zFg4w5k
+
+---
+
+- complex decision becoming mechanized
+- plugboards used to reprogram the machine physically
+- Alan Turing
+	- published a paper that addressed hilbert's challenges
+	- einstelldungproblem
+	- universal machine
+	- if (observation)
+		- awareness of one symbol
+	- then (operation)
+		- compare observed symbol to memory (match)
+		- perform the task
+	- next state
+		- jump to next state
+		- eventually stop and output result
+	- READ ⇒ WRITE ⇒ MOVE
+	- no more human input		
+	- algorithm and rough work can be together (strip of paper)
+	- what can't or can't be written down? what is uncomputable?

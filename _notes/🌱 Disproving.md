@@ -1,0 +1,14 @@
+- show that statements are false
+- prove that the negation of the statement is true
+- To disprove a universal statement: ∀x P(x) 
+	- ∃x ¬P(x) (Counter Example)
+- Examples
+	- ![[Attachments/Pasted image 20201013100346.png]]
+		- ![[Attachments/Pasted image 20201013100429.png]]
+	- ![[Attachments/Pasted image 20201013100516.png]]
+- To disprove an existential statement: ∃x P(x)
+	- ∀x ¬ P(x)  
+- Examples
+	- ![[Attachments/Pasted image 20201013100800.png]] 
+- Exercises
+	- ![[Attachments/Pasted image 20201013100851.png]]

@@ -1,0 +1,9 @@
+As Christians, we are not exempt from our spiritual disease, our sinful nature. This nature causes us to keep on sinning despite having Christ already in our lives. The verses clearly puts it as, we do things we know that are wrong, and we don't do things we know is right. This is very ironic and something must change. We must be able to be fervent in being righteous and doing pleasing things instead of indulging in [[Sin as a flesh-eating bacteria|sins]] that will not do us any good. We must live Christ-like lives and die daily and carry the cross with Him.
+
+>14 ***We know that the law is spiritual; but I am unspiritual, sold as a slave to sin.*** 15 I do not understand what I do. ***For what I want to do I do not do, but what I hate I do.*** 16 And if I do what I do not want to do, I agree that the law is good. 17 As it is, it is no longer I myself who do it, but it is sin living in me. 18 For I know that good itself does not dwell in me, that is, in my sinful nature. **For I have the desire to do what is good, but I cannot carry it out. 19 For I do not do the good I want to do, but the evil I do not want to do—this I keep on doing.** 20 Now if I do what I do not want to do, it is no longer I who do it, but it is sin living in me that does it.
+>21 So I find this law at work: Although I want to do good, evil is right there with me. 22 For in my inner being I delight in God’s law; 23 but I see another law at work in me, waging war against the law of my mind and making me a prisoner of the law of sin at work within me. 24 What a wretched man I am! Who will rescue me from this body that is subject to death? 25 **Thanks be to God, who delivers me through Jesus Christ our Lord!**
+>So then, I myself in my mind am a slave to God’s law, but in my sinful nature a slave to the law of sin.
+>*Romans 7:14-25*
+
+- Related:
+	- [[On God's transformative love]]

@@ -1,0 +1,9 @@
+- must be true for any interpretation for the argument to be valid
+	- to prove false, provide an interpretation where it is false
+- many interpretations, we need to use reasons
+	- use rules of prop logic
+	- accept a few basic rules as intuitively valid
+	- use formal logic
+-  ![](Attachments/Pasted%20image%2020200923094637.png)
+-  ![](Attachments/Pasted%20image%2020200923160754.png)
+-  ![](Attachments/Pasted%20image%2020200923161214.png) 

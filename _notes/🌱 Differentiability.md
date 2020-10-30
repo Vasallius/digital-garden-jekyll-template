@@ -1,0 +1,32 @@
+## Differentiability
+- When is a function differentiable?
+	- able to differentiate
+	- find the derivative
+- ![[Attachments/Pasted image 20201009165041.png]]
+	- if the derivative exists when an **x** is plugged in, we say it is differentiable at **x**
+	- if the derivative exists for all values within an interval , then it is differentiable at the interval **(a,b)**
+	- if ∀ real numbers the derivative exists, then we say it is differentiable everywhere
+- One-sided derivatives
+	- ![[Attachments/Pasted image 20201009170422.png]]
+	- similar to [[🌱 Lec1.2 - One-sided Limits]]
+	- both should exist and be equal for the derivative to exist
+	- ![[Attachments/Pasted image 20201009170835.png]]
+- Geometric Interpretation
+	- ![[Attachments/Pasted image 20201009171054.png]]
+	- non-vertical tangent line
+- When is it not differentiable
+	- no well defined tangent line
+	- corner or cusp
+	- ![[Attachments/Pasted image 20201009171258.png]]
+	- discontinuous at x = $x_0$
+	- ![[Attachments/Pasted image 20201009171343.png]]
+
+## Continuity
+- if function is differentiable then it is also continuous
+- if discontinuous, then it is no differentiable
+- if f is continuous, it doesn't follow that it is automatically differentiable
+- if f is not differentiable, it doesn't follow that it is automatically discontinuous
+- ![[Attachments/Pasted image 20201009171859.png]]
+- ![[Attachments/Pasted image 20201009172204.png]]
+- ![[Attachments/Pasted image 20201009172300.png]]
+- ![[Attachments/Pasted image 20201009172342.png]]

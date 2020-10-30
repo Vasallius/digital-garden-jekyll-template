@@ -1,0 +1,78 @@
+- Details
+	- Professor: Pamela Kim Salonga
+	- Email: pksalonga@math.upd.edu.ph
+	- Time: **11:45-12:45**
+	- Working Hours:
+
+---
+- 🎥 Zoom Meetings
+	- Topic: Math 21 V1 Zoom Discussion Class
+	- Link: https://up-edu.zoom.us/j/96613507510
+	- Meeting ID: 966 1350 7510
+	- Passcode: math21V1
+- 📂 File Repository
+	- [Facebook Group](https://www.facebook.com/groups/1713734882128066)
+		- **updates**
+	- [UVLE](https://uvle.upd.edu.ph/course/view.php?id=6193)
+	- [UVLE - SALONGA](https://uvle.upd.edu.ph/course/view.php?id=14586)
+		- **updates**
+	- [YouTube](https://www.youtube.com/playlist?list=PL2kta8PKtfXSd5McJgIrHwFUd-PvSZEIW)
+		- **video lectures**
+	- [Course Guide](file:///E:/Master%20Jed/College%20Life/1st%20Year/MATH%2021%20-%20SALONGA/Course%20Guide%20Math%2021.pdf)
+		- **study schedule**
+		- **supplementary reference** 
+	- [Course Book](file:///E:/Master%20Jed/College%20Life/1st%20Year/MATH%2021%20-%20SALONGA/Math%2021%20Module%20(1stAY1920).pdf)
+	- [Review Slides](file:///E:/Master%20Jed/College%20Life/1st%20Year/MATH%2021%20-%20SALONGA/Math%2021%20Review%20Slides.pdf)
+- ❓ Pending Questions
+	- 
+- 🖊 Notes
+	- [[🌱 Lec1.1 - Limit of a Function and Limit Theorems]]
+	- [[🌱 Lec1.2 - One-sided Limits]]
+		- [🌱 Greatest Integer Function](%F0%9F%8C%B1%20Greatest%20Integer%20Function)
+	- [[🌱 Lec 1.3 - Infinite Limits and Limits at Infinity]]
+	- [[🌱 Lec 1.4 - Formal Definition of a Limit]]
+	- Lecture 1.5
+		- [[🌱 Lec 1.5 - IVT, Squeeze, Limits and Continuity of Trig Functions]]
+		- [[🌱 L1.5 Discussion and Mistakes]]
+	- Lecture 1.6
+		- [[🌱 Inverse Functions]]
+		- [[🌱 Exponential and Logarithmic Functions]]
+		- [[🌱 Inverse Circular Functions]]
+		- [[🌱 Limits involving Exponential, Logarithmic, and Inverse Circular Functions]]
+		- [[🌱 L1.6 Discussion and Mistakes]]
+		- [[🌱 L1.6 Techniques]]
+	- Lecture 1.7
+		- [[🌱 Hyperbolic Functions]]
+		- [[🌱 Inverse Hyperbolic Functions]]
+	- Lecture 2.1
+		- [[🌱 Derivatives]]
+		- [[🌱 Differentiation Rules]]
+		- [[🌱 Higher Order Derivatives]]
+	- Lecture 2.2
+		- [[🌱 Differentiability]]
+		- [[🌱 Chain Rule]]
+		- [[ 🌱 L2.2 Techniques and Sample Solutions]]
+	- Lecture 2.3
+		- [[🌱 Implicit Differentiation]]
+		- [[🌱 Derivatives of Logarithmic Functions]]
+		- [[🌱 Derivatives of Exponential Functions]]
+		- [[🌱 L2.3 Techniques and Sample Solutions]]
+	- Lecture 2.4
+		- [[🌱 Logarithmic Differentiation]]
+		- [[🌱 Derivatives of Other Classes of Functions]]
+		- [[🌱 L2.4 Techniques and Sample Solutions]]
+	- Lecture 2.6
+		- [[🌱 Concavity]]
+		- [[🌱 Points of Inflection]]
+		- [[🌱 Second Derivative Test for Relative Extrema]]
+		- [[🌱 Graphing Polynomials]]
+	- Lecture 2.7
+		- [[🌱 Vertical and Horizontal Asymptotes]]
+		- [[🌱 Oblique Asymptotes]]
+		- [[🌱 Graphing Functions with Asymptotes]]
+		- [[🌱 Graph of f from the Graph of f']]
+	- Lecture 3.1: Absolute Extrema
+		- [[🌱 Definitions and Examples]]
+		- [[🌱 Absolute Extrema of Functions on Closed and Bounded Intervals]]
+		- [[🌱 Absolute Extrema of Functions with One Relative Extremum]]
+		- [[🌱 Other Cases - Using Limits]]

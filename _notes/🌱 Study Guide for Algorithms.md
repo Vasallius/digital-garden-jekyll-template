@@ -1,0 +1,40 @@
+- metadata
+	- reference: https://www.youtube.com/watch?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&time_continue=3&v=rL8X2mlNHPM&feature=emb_logo
+
+---
+
+- #### Algorithms
+	- specific steps to computer a computation
+	- generally fewer steps to computer, the better it is
+		- memory usage
+	- Muhammad Ibn Al-Khwarizmi
+	- Sorting
+		- bubble sort
+		- spaghetti sort
+		- selection sort
+			- find smallest
+				- start at the top
+				- new smallest as you go next
+				- after each run, put the smallest at the very beginning
+					- start spot lower
+				- O (n^2) loops
+				- relationship of input size to number of steps = complexity
+		- merge sort
+			- split into half again and again and again to individual arrays
+			- merge each individual array
+				- compare the first two number from each array and taking the lowest when merging
+			- O(n log n)
+		- graph search
+			- graph of nodes that is connected
+			- line is labeled by number
+				- brute force approach
+				- try every line
+				- O(n!)
+			- Edsger Wybe Dijkstra
+				- find the lowest distance from starting node to next node
+				- try every path, and record
+				- find the lowest cost path
+				- O(n^2)
+				- modified to be O(n log n + 1)
+					- nodes and lines
+	

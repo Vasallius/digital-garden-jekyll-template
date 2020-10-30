@@ -1,0 +1,8 @@
+- Date Started:
+	- September 6, 2020
+- September 6,  2020
+	- tried to play right hand and left hand with the youtube video thrice
+- September 8, 2020
+	- got around to almost 1 minute of practice
+- September 29
+	- recorded it blind folded

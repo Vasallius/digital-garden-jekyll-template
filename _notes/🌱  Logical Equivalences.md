@@ -1,0 +1,19 @@
+- Tautology - a statement that is always true.
+- Contradiction - a statement that is always false.   
+- (p ⇒ q) ⇔ (¬ q ⇒ ¬ p) is a tautology
+	- same truth values since implication and contrapositive
+	- tautology *iff* p1 and p2 have the same truth value
+	- prove implication as true using implication law
+		- **¬ p ∨ q**
+	- p1 ≡ p2 
+- converse ≡ inverse
+- p ⇔ q ≡ (p ⇒ q) ∧ (q ⇒ p)
+-  p ⇒ q ≡ ¬ p ∨ q	
+	-  an implication represented at a disjunction 
+-  ![](Attachments/Pasted%20image%20364.png)
+- **De Morgan's Law**
+	- ¬ (p ∨ q) ≡  ¬ p ∧ ¬ q
+	- ¬ (p ∧ q) ≡ ¬ p ∨ ¬ q
+- Augustus De Morgan
+	- teacher of Lady Ada
+- Lady Ada Lovelace

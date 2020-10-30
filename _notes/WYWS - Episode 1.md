@@ -1,0 +1,4 @@
+- girl's dream comes true
+- man dies from lighter
+- dies from car crash
+- mother dies because accident was framed on her

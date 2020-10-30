@@ -1,0 +1,20 @@
+- statement variables or propositional variables
+	- variable that hold boolean values (true or false)
+- basic statements no operators
+- compounds statements have
+- **formula** is sequence of symbols, connectives, and pairs of parenthesis
+- **well formed formula** (wff) is a formula which satisfies certain syntax rules
+- **precedence of logical operators**
+	- ¬ 
+	- ∧ 
+	- ∨ 
+	- → 
+	- ⇔ 
+	- innermost parenthesis are performed first
+- p ∨ ¬ q = p ∨ (¬ q)
+- ¬ p ∨ ¬ q = (¬ p) ∨ (¬ q)
+- ¬ q ⇒  ¬ p = (¬ q) ⇒ (¬ p)
+- p ∧  q ∨ r =  (p ∧ q) ∧ r
+	- **WRONG**: p ∧ (q ∧ r)
+- p ∧ q ⇒ r = (p ∧ q) ⇒ r
+	- **WRONG**: p ∧( q ⇒ r )

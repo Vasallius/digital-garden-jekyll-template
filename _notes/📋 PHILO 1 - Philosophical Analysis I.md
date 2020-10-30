@@ -1,0 +1,45 @@
+- Details:
+	- Professor:  Cathlyne Joy Alvarez-Abarejo
+	- Email: cpalvarez@up.edu.ph
+	- Time: **4:30-5:30**
+	- Working Hours:
+
+---
+- 🎥 Zoom Meetings
+	- Date: **September 15 4:30-5:30**
+	- Link: https://up-edu.zoom.us/j/6512205972
+	- Meeting ID: 651 220 5972
+	- Password: Philo1Meet 
+- 📂 File Repository
+	- [Study Schedule](https://docs.google.com/spreadsheets/d/1Q-b6hnblsgUuVD5ViboeHjOnRJ_BM-ENC2_7vKbZG5E/edit#gid=0)
+	- [Facebook Group](https://www.facebook.com/groups/3590684960992115/?notif_id=1599718779876675&notif_t=group_r2j_approved&ref=notif)
+	- [Course Guide](file:///E:/Master%20Jed/College%20Life/1st%20Year/PHILO%201%20-%20ALVAREZ/Philo%201%20THY1%20Course%20and%20Syllabus%20Guide.pdf)
+- ## Week 2
+	- [[🌲 Brain in a Vat]]
+	- [[🌲 Problem of Skepticism]]
+	- [[🌲  Three Responses to Skepticism]]
+	- [[🌲  Thought Experiment 1 Lecture Video]]
+- ## Week 3
+	- [[🌲  Concept of Philosophy Lecture Video]]
+	- [[🌲 Sense and Reference]]
+	- [[🌲  Top Hat Lecture Video]]
+- ## Week 5
+	- [[🌲  Euthypro Dilemma]]
+	- [[🌲  Moral Argument]]
+	- [[🌲  Logical Problem of Evil]] ^78e548
+	- [[🌲  Thought Experiment 2 Lecture Video]]
+	- [[🌱 The Matrix!]]
+	- [[Attachments/The Value of Philosophy.pdf]]
+- ## Week 6
+	- [[📋  Philosophy at stake]]
+	- [[🌲  TVP and Matrix Lecture Video]]
+	- [[📋 Value of Philosophy ]]
+- ## Week 7
+	- [[📋 The Ontological Argument]]
+	- [[📋 Omnipotence Paradox Debunked]]
+	- [[📋 Thought Experiment 3 Lecture Video]]
+- ## Week 8
+	- [[🎥 Presocratic Philosophers  I - Intro, Thales]]
+	- [[🎥 Presocratic Philosophers II - Anaximander, Heraclitus]]
+	- [[🎥 Presocratic Philosophers  III - Parmenides]]
+	- [[🎥 Presocratic Pihlosophers IV - Anaxagoras]]

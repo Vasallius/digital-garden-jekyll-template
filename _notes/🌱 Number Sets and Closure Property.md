@@ -1,0 +1,42 @@
+## Number Sets
+- Natural Numbers: ℕ 
+	- whole numbers from 0 
+	- counting and ordering
+	- for our course, we consider 0 as a natural number
+- Integers: ℤ 
+	- positive and negative whole numbers + 0
+	- "Zahlen" german word meaning numbers
+	- Z+ only positive integers
+	- Z- only negative integers
+- Rational Numbers: ℚ 
+	- ratio of two integers
+	- fractions
+	- "quotient"
+	- $r=\frac{p}{q}$, provided that q is not equal to 0
+	- consistency, always use lowest terms
+- Irrational Numebers:
+	- cannot be expressed as the ratio of two integers
+		- square root of 2
+		- pi
+		- e
+- Real Numbers: ℝ
+	-  includes ℚ and irrational numbers
+	-  any point on the number line
+- Complex Numbers: ℂ 
+	-  square root of a negative number
+	- i
+	-  real plus imaginary
+		-  *a + bi*
+-  ![](Attachments/Pasted%20image%2020200928133518.png)
+
+## Closure Property 
+-  set S is closed if \* operation is performed on the any members of the set S and returns a member of the set S
+-  ℤ closed under **+, -,  and x**
+	-  not closed under **/**
+-  ![](Attachments/Pasted%20image%2020200928133839.png)
+- ❗ ==**sets are generally closed under addition and multiplication**==
+	-  Sample Invokation
+	- integer n is even if there exists an integer k, such that n = 2k
+	- **we can assure k is an integer** since it is a product/sum of other variables
+- ❓ Prove the statement: The product of two even integers is even	
+	- ![](Attachments/Pasted%20image%2020200928134207.png)

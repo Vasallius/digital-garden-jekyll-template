@@ -1,0 +1,6 @@
+- [[🌱 M1 - History of Computers]]
+- [[🌱 M1 - History of Computer Science]]
+- [[🌱 Anatomy of a Computer]]
+- [[🌱 Memory of a Computer]]
+- [[🌱 Hardware and Software]]
+- [[🌱 Turing Machine]]

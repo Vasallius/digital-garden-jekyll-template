@@ -1,0 +1,8 @@
+- Notes
+	- [[🌱 Important String Operations]]
+	- [[🌱 String Comparison]]
+	- [[🌱 Remove Punctuation]]
+	- [[🌱 String Formatting]]
+	- [[🌱 List tricks using slicing]]
+	- [[🌱 Square Root Approximation]]
+	- [[🌱 Frequency Table]]

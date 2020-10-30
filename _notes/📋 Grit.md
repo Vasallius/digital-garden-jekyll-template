@@ -1,0 +1,34 @@
+- Preface and Chapter 1 **Showing Up**
+	- The author was told that she was no genius but eventually wins an award for it, ironic. The author conducts studies on military training camp, salespeople, college students, and spelling bee champions. Grit was a good predictor for those who stayed and left and for those who thrived and did not.
+	- Talent and grit have no correlation with each other. Even the most talented end up dropping out and giving up compared to those who started with lesser innate talent, however, they were grittier.
+	- > Our potential is one thing. What we do with it is quite another.
+- Chapter 2 **Distracted by Talent**
+	- Talent is not all there is to achievement. We are often distracted by talent so much that we have developed a *natural* bias and have shone the spotlight to it compared to people who *strive hard*, which matters more, a lot more.
+	- Multiple stories of kids that were placed in groups in which they were considered as slow learners or low iqs but in reality they were not. Aptitude tests got a lot of this wrong.
+	- Through grit and determination, surely we will be able to inch closer and closer to our outer limits
+- Chapter 3 **Effort Counts Twice**
+	- The author lays down a formula for achievements and we can there that efforts counts double.
+	- when we see something great, we automatically think they're gifted we invalidate tons of hours spent in doing their craft
+	- stories of people who continue to their craft and skill are those people who produce multitudes of achievements
+	- don't be outworked
+- Chapter 4 **How Gritty Are You?**
+	- gritty people are not fond of switching just for the sake of switching, they stay loyal and laser-focused on their task
+	- doing what you love is not just falling in love, it's staying in love
+	- got a 4.3 grit score
+	- goal hierarchies concept
+		- low and mid goals
+	- top two indictors in Cox's study were passion and perseverance
+- Chapter 5 **Grit Grows**
+	- Grit is not entirely based on nature or your genes. It can grow.
+	- Briefly touched on 4 aspects of grit, practice, interest, purpose, and hope
+- Chapter 6 **Interest**
+	- Fostering interest is very important though fostering comes with the interaction with things related to that area
+	- Follow your passion is generally good advice
+- Chapter 7 **Practice**
+	- Gritty people simply have more time on task
+	- Experts employ deliberate practice
+		- zero in on something
+		- focus on weaknesses
+	- make unconscious incompetence conscious competence
+	- practice is often unejoyable
+	- flow - a very delightful experience of just being in the zone

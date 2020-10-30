@@ -1,0 +1,6 @@
+ - there are a lot of ways to translate
+ - ![](Attachments/Pasted%20image%2020200923090221.png)
+ - ![](Attachments/Pasted%20image%2020200923090923.png)
+ - ![](Attachments/Pasted%20image%2020200923091354.png)
+ - when combining two predicates don't forget to use ∧ and put parenthesis
+ -  

@@ -1,0 +1,38 @@
+- ## The Formal Definition of a Limit
+	- ![](Attachments/Pasted%20image%2020200924114541.png)
+	- proving
+		- choose a delta
+			- 0 < f(x) < epsilon
+			- 0 < x-a < delta
+			- delta would be expressed as epsilon since the two inequalities are similar
+			- ![](Attachments/Pasted%20image%2020200924115045.png)
+		- verify that chosen delta works
+			- express f(x) as an inequality less than delta instead of epsilon
+			- substitute the value of delta
+				- this yields to epsilon
+			-  ![](Attachments/Pasted%20image%2020200924115349.png)
+		- example
+			- ![](Attachments/Pasted%20image%2020200924204517.png)
+- ## Continuity at a Point
+	- ![](Attachments/Pasted%20image%2020200924115521.png) 
+	- **domain of all polynomial functions is all real numbers**
+		- continuous at the set of all real numbers
+	- **domain of rational functions is all real numbers except for x that makes the function undefined**
+		- discontinuous at that point
+	- for rational and polynomial functions if f(a) is defined then the f is continuous at x = a
+	- **discontinuities**
+		- removable
+			- limit exists but f(a) is undefined or not equal to the limit
+		- essential
+			- limit does not exist because limits are not equal
+			- jump essential
+			- infinite essential
+	- if f(a) is defined and limit is equal to f(a), function is continuous
+- ## Continuity on an Interval
+	-  ![](Attachments/Pasted%20image%2020200924120821.png)
+	-  continuous from the   left/right if f(a) is equal to the limit as it approaches x from left or right
+	-  ![](Attachments/Pasted%20image%2020200924121453.png)
+	-  ![](Attachments/Pasted%20image%2020200924121537.png)
+	-  ![](Attachments/Pasted%20image%2020200924121714.png)
+	-  function discontinuous at numbers where it is undefined
+		-  possibly end points of piece wise functions

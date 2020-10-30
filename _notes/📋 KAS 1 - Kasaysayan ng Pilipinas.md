@@ -1,0 +1,40 @@
+- Details:
+	- Professor: Francisco Jayme Paolo Guiang
+	- Email: faguiang@gmail.com
+	- Time: **2:30-4:00**
+	- Working Hours:
+
+---
+- **IMPORTANT**
+	-  first three essays - midterm week
+	- last three essays - final week
+	- essay question midterm and finals
+	- footnotes - citation chicago 
+- 🎥 Zoom Meetings
+	- Topic: Kas 1 Orientation 
+	- Link: https://up-edu.zoom.us/j/91672958016
+	- Meeting ID: 916 7295 8016
+	- Passcode: Kas1Day1
+- 📂 File Repository
+	- [Facebook Group](https://www.facebook.com/groups/1094776634365827?notif_id=1599657783584810&notif_t=group_r2j_approved&ref=notif)
+	- [Course Pack](https://drive.google.com/drive/folders/1LDmgFCeGNyad0kYwbNuSumWvGzo5iyB6)
+	- [Course Guide](file:///E:/Master%20Jed/College%20Life/1st%20Year/KAS%201%20-%20GUIANG/Course%20Guide.pdf)
+	- [Assignment Guide](file:///E:/Master%20Jed/College%20Life/1st%20Year/KAS%201%20-%20GUIANG/Assignment%20Guide.pdf)
+
+# notes
+- [[🌱 Tradisyonal na Kasaysayan]]
+	- [[🌱 Week 1]]
+	- [Lara's Notes](https://www.notion.so/NOTES-Tradisyunal-na-Kasaysayan-2bfda46433034bc4a29c2a44ba7f1181)
+- [[🌱 Pagbubuo ng kapuluan ng Pilipinas]]
+	- [[🌱 Week 2]]
+- [[🌱 Pagtatao ng Pilipinas]]
+	- [[🌱 Week 3]]
+	- [[📋 Austronesian Heritage]]
+	- [[Attachments/B05 Abrera_Bangka.pdf]]
+- [[🌱 Bangka, Kaluluwa at Katutubong Paniniwala]]
+- [[🌱 Islam and Arab Cultural Influences]]
+	- [[🌱 Week 4]]
+- Week 5 & 6
+	- [[📜 The Philippine Islands - a vital crossroads during the first globalization period]]
+	- [[🌱 Week 5]]
+	- [[🎥 How Magellan Circumanavigated the World]]
